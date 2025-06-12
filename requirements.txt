@@ -1,0 +1,13 @@
+streamlit
+numpy
+opencv-python-headless
+keras
+tensorflow
+Pillow
+mediapipe
+matplotlib
+seaborn
+tqdm
+scikit-learn
+flask
+flask_cors

@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Sukhumvit';
+  src: url('/Fonts/SukhumvitSet-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sukhumvit';
+  src: url('/Fonts/SukhumvitSet-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sukhumvit';
+  src: url('/Fonts/SukhumvitSet-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+body {
+  font-family: 'Sukhumvit', sans-serif;
+  background: white;
+  color: black;
+}

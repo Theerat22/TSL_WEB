@@ -1,0 +1,266 @@
+,ASL,ASL Sentence,English,English Sentence
+0,PRP$1 NN1 NN2 .1,your dad name ?,WP VB PRP$1 NN1 POS NN2 .1,what be your dad 's name ?
+1,NN1 PRP1 .1,deaf you ?,VB PRP1 NN1 .1,be you deaf ?
+2,VB1 PRP$1 NN1 .1,deaf your father ?,VB PRP$1 NN1 VB1 .1,be your father deaf ?
+3,VB1 PRP$1 JJR1 .1,deaf your younger ?,VB PRP$1 JJ VB1 .1,be your young deaf ?
+4,NN1 PRP$1 NN2 .1,student your son ?,VB PRP$1 NN2 DT NN1 .1,be your son a student ?
+5,WP1 PRP1 .1,who he ?,WP1 VB PRP1 .1,who be he ?
+6,RB1 NN1 PRP1 .1,again name you ?,WP VB PRP$ NN1 RB1 .1,what be your name again ?
+7,RB1 VB1 PRP$1 NN1 .1,again name your father ?,WP VB PRP$1 NN1 VB1 RB1 .1,what be your father name again ?
+8,RB1 RB2 PRP$1 NN1 .1,again name your mother ?,WP VB PRP$1 NN1 RB2 RB1 .1,what be your mother name again ?
+9,RB1 RB2 PRP$1 NN1 NN2 .1,again name your younger sister ?,WP VB JJ NN2 RB2 RB1 .1,what be young sister name again ?
+10,JJ1 NN1 NN2,i student i,PRP VB NN1 .,I be student ?
+11,PRP1 VBD1 PRP2 .1,he student he ?,VB PRP2 DT VBD1 .1,be he a student ?
+12,PRP1 VBZ1 PRP2 .1,he accountant he ?,VB PRP2 DT VBZ1 .1,be he an accountant ?
+13,PRP1 VB1 PRP2 .1,he architect he ?,VB PRP2 DT VB1 .1,be he an architect ?
+14,PRP1 NN1 PRP2 .1,he banker he ?,VB PRP2 DT NN1 .1,be he a banker ?
+15,PRP1 MD1 PRP2 .1,he firefighter he ?,VB PRP2 DT MD1 .1,be he a firefighter ?
+16,PRP1 NN1 NN2 PRP2 .1,he flight attendant he ?,VB PRP2 DT NN1 NN2 .1,be he a flight attendant ?
+17,PRP1 VBZ1 NN1 PRP2 .1,he police officer he ?,VB PRP2 DT VBZ1 NN1 .1,be he a police officer ?
+18,PRP1 VBD1 NN1 PRP2 .1,he soccer player he ?,VB PRP2 DT VBD1 NN1 .1,be he a soccer player ?
+19,PRP1 JJ1 NN1 PRP2 .1,he social worker he ?,VB PRP2 DT JJ1 NN1 .1,be he a social worker ?
+20,PRP1 JJR1 PRP2 .1,she soldier she ?,VB PRP2 DT JJR1 .1,be she a soldier ?
+21,PRP1 JJ1 PRP2 .1,she veterinarian she ?,VB PRP2 DT JJ1 .1,be she a veterinarian ?
+22,DT1 PRP$1 .1,this your ?,VB DT1 PRP$1 .1,be this your ?
+23,DT1 PRP1 .1,this she ?,VB DT1 NNS .1,be this hers ?
+24,VBG1 PRP1 .1,hearing you ?,VB PRP1 DT JJ NN .1,be you a hear person ?
+25,JJ1 NN1 PRP1 .1,financial analyst you ?,VB PRP1 DT JJ1 NN1 .1,be you a financial analyst ?
+26,VBG1 NN1 PRP1 .1,marketing specialist you ?,VB PRP1 DT VBG1 NN1 .1,be you a marketing specialist ?
+27,NN1 NN2 PRP1 .1,project manager you ?,VB PRP1 DT NN1 NN2 .1,be you a project manager ?
+28,NNS1 NN1 PRP1 .1,data analyst you ?,VB PRP1 DT NNS1 NN1 .1,be you a data analyst ?
+29,JJ1 NN1 NN2 PRP1 .1,real estate agent you ?,VB PRP1 DT JJ1 NN1 NN2 .1,be you a real estate agent ?
+30,NNP1 NN1 PRP1 .1,IT specialist you ?,VB PRP1 DT NNP1 NN1 .1,be you an IT specialist ?
+31,JJ1 NNS1 NN1 PRP1 .1,human resources manager you ?,VB PRP1 DT JJ1 NN NN1 .1,be you a human resource manager ?
+32,NN1 NN2 NN3 PRP1 .1,air traffic controller you ?,VB PRP1 DT NN1 NN2 NN3 .1,be you an air traffic controller ?
+33,NN1 JJ1 NN2 PRP1 .1,emergency medical technician you ?,VB PRP1 DT NN1 JJ1 NN2 .1,be you an emergency medical technician ?
+34,PRP1 VBP1 VB1 WRB1 .1,you learn sign where ?,WRB1 VB PRP1 VBP1 VB1 .1,where do you learn sign ?
+35,PRP1 VBP1 JJ1 WRB1 .1,you learn spanish where ?,WRB1 VB PRP1 VBP1 JJ1 .1,where do you learn spanish ?
+36,PRP1 VBP1 JJ1 NN1 WRB1 .1,you learn fijian hindi where ?,WRB1 VB PRP1 VBP1 JJ1 NN1 .1,where do you learn fijian hindi ?
+37,PRP1 VBP1 JJ1 JJ2 WRB1 .1,you learn south azerbaijani why ?,WRB1 VBP PRP1 VBP1 JJ1 JJ2 .1,why do you learn south azerbaijani ?
+38,PRP1 VBP1 NN1 .1,they learn sign ?,VB PRP1 VBP1 NN1 NN .1,be they learn sign language ?
+39,PRP1 VBP1 JJ1 .1,they learn english ?,VB PRP1 VBP1 JJ1 NN .1,be they learn english language ?
+40,PRP1 VBP1 NNS1 .1,they learn mandarin ?,VB PRP1 VBP1 NNS1 NN .1,be they learn mandarin language ?
+41,PRP1 VBP1 VB1 .1,they learn kurdish ?,VB PRP1 VBP1 VB1 NN .1,be they learn kurdish language ?
+42,PRP1 VBP1 JJ1 NN1 .1,they learn fijian hindi ?,VB PRP1 VBP1 JJ1 NN1 NN .1,be they learn fijian hindi language ?
+43,PRP1 VBP1 CD1 .1,they learn zulu ?,VB PRP1 VBP1 CD1 NN .1,be they learn zulu language ?
+44,PRP1 VBP1 JJ1 NNS1 .1,they learn north azerbaijani ?,VB PRP1 VBP1 JJ1 NNS1 NN .1,be they learn north azerbaijani language ?
+45,PRP1 VBP1 VB1 NN1 .1,you like learn sign ?,VB PRP1 VBP1 VB1 NN1 NN .1,do you like learn sign language ?
+46,PRP1 VBP1 VB1 JJ1 .1,you like learn english ?,VB PRP1 VBP1 VB1 JJ1 NN .1,do you like learn english language ?
+47,PRP1 VBP1 VB1 NNS1 .1,you like learn arabic ?,VB PRP1 VBP1 VB1 NNS1 NN .1,do you like learn arabic language ?
+48,PRP1 VBP1 JJ1 JJ2 .1,you like learn german ?,VB PRP1 VBP1 JJ1 JJ2 NN .1,do you like learn german language ?
+49,PRP1 VBP1 VB1 VB2 .1,you like learn kurdish ?,VB PRP1 VBP1 VB1 VB2 NN .1,do you like learn kurdish language ?
+50,PRP1 VBP1 JJ1 JJ2 NN1 .1,you like learn fijian hindi ?,VB PRP1 VBP1 JJ1 JJ2 NN1 NN .1,do you like learn fijian hindi language ?
+51,PRP1 VBP1 JJ1 NN1 NN2 .1,you like learn south azerbaijani ?,VB PRP1 VBP1 JJ1 NN1 NN2 NN .1,do you like learn south azerbaijani language ?
+52,PRP1 VBP1 VB1 JJ1 NN1 .1,you like learn political science ?,VB PRP1 VBP1 VB1 JJ1 NN1 .1,do you like learn political science ?
+53,PRP1 VBP1 RB1 JJ1 NNS1 .1,you like learn religious studies ?,VB PRP1 VBP1 RB1 JJ1 NN .1,do you like learn religious study ?
+54,PRP1 VBP1 JJ1 JJ2 NNS1 .1,you like learn human resources ?,VB PRP1 VBP1 JJ1 JJ2 NN .1,do you like learn human resource ?
+55,PRP1 VBP1 VB1 NN1 NN2 .1,you like learn food science ?,VB PRP1 VBP1 VB1 NN1 NN2 .1,do you like learn food science ?
+56,PRP$1 NN1 WP1 .1,your teacher who ?,WP1 VB PRP$1 NN1 .1,who be your teacher ?
+57,PRP$1 JJR1 NN1 WP1 .1,your older brother who ?,WP1 VB PRP$1 JJ NN1 .1,who be your old brother ?
+58,PRP$1 VBG1 WP1 .1,your sibling who ?,WP1 VB PRP$1 VBG1 .1,who be your sibling ?
+59,PRP$1 NNS1 WP1 .1,your nephew who ?,WP1 VB PRP$1 NNS1 .1,who be your nephew ?
+60,PRP$1 JJ1 NN1 WP1 .1,your great grandfather who ?,WP1 VB PRP$1 JJ1 NN1 .1,who be your great grandfather ?
+61,PRP$1 JJ1 NNS1 WP1 .1,your great grandchildren who ?,WP1 VB PRP$1 JJ1 NN .1,who be your great grandchild ?
+62,PRP1 VBD1 .1,you married ?,VB PRP1 VB .1,be you marry ?
+63,PRP$1 NN1 VBD1 .1,your father married ?,VB PRP$1 NN1 NN .1,be your father marry ?
+64,PRP$1 JJR1 NN1 VBD1 .1,your older brother married ?,VB PRP$1 JJ NN1 NN .1,be your old brother marry ?
+65,PRP$1 JJR1 NN1 VBN1 .1,your older sister married ?,VB PRP$1 JJ NN1 NN .1,be your old sister marry ?
+66,PRP$1 VBG1 VBN1 .1,your sibling married ?,VB PRP$1 VBG1 NN .1,be your sibling marry ?
+67,PRP$1 JJ1 VBN1 .1,your relative married ?,VB PRP$1 JJ1 NN .1,be your relative marry ?
+68,PRP$1 NNS1 VBN1 .1,your nephew married ?,VB PRP$1 NNS1 NN .1,be your nephew marry ?
+69,PRP$1 JJ1 NN1 VBD1 .1,your great grandfather married ?,VB PRP$1 JJ1 NN1 NN .1,be your great grandfather marry ?
+70,PRP$1 JJ1 NNS1 VBN1 .1,your great grandchildren married ?,VB PRP$1 JJ1 JJ NN .1,be your great grandchild marry ?
+71,PRP1 VBP1 WRB1 JJ1 .1,you sister how many ?,WRB1 JJ1 VBP1 VBP PRP1 VB .1,how many sister do you have ?
+72,PRP1 VBP1 JJR1 WRB1 JJ1 .1,you older brother how many ?,WRB1 JJ1 JJ JJR1 VBP PRP1 VB .1,how many old brother do you have ?
+73,PRP1 JJR1 VB1 WRB1 JJ1 .1,you younger brother how many ?,WRB1 JJ1 JJ VB1 VBP PRP1 VB .1,how many young brother do you have ?
+74,PRP1 VBG1 WRB1 JJ1 .1,you sibling how many ?,WRB1 JJ1 VBG1 VBP PRP1 VB .1,how many sibling do you have ?
+75,PRP1 JJ1 VB1 WRB1 JJ2 .1,you great grandfather how many ?,WRB1 JJ2 JJ1 VB1 VBP PRP1 VB .1,how many great grandfather do you have ?
+76,PRP1 NNS1 WRB1 JJ1 .1,you children how many ?,WRB1 JJ1 NN VBP PRP1 VB .1,how many child do you have ?
+77,PRP1 VBP1 WRB1 .1,you work where ?,WRB1 VB PRP1 VBP1 .1,where do you work ?
+78,WRB1 JJ1 NNS1 .1,how sign thanks ?,WRB1 VB PRP JJ1 VB .1,how do you sign thank ?
+79,PRP$1 NN1 JJ1 .1,your brother single ?,VB PRP$1 NN1 JJ1 .1,be your brother single ?
+80,PRP$1 JJR1 NN1 JJ1 .1,your younger sister single ?,VB PRP$1 NN1 JJ1 .1,be your sister single ?
+81,PRP1 VBP1 PRP$1 NN1 PRP2 .1,you meet my brother you ?,VB PRP2 VBP1 PRP$1 NN1 .1,do you meet my brother ?
+82,PRP1 VBP1 PRP$1 JJR1 PRP2 .1,you meet my younger you ?,VB PRP2 VBP1 PRP$1 JJ .1,do you meet my young ?
+83,PRP1 VBP1 VBN1 .1,you have sister ?,VBP PRP1 VBP1 DT VBN1 .1,do you have a sister ?
+84,PRP1 VBP1 JJR1 .1,you have younger ?,VBP PRP1 VBP1 DT JJ .1,do you have a young ?
+85,NN1 PRP1 VBP1 .1,city you live ?,WP NN1 VBP PRP1 VBP1 IN .1,what city do you live in ?
+86,PRP1 IN1 PRP$1 NN1 .1,you like your work ?,VB PRP1 IN1 PRP$1 NN1 .1,do you like your work ?
+87,PRP1 VBP1 JJ1 NN1 JJ2 .1,you think i sign bad ?,VBP PRP1 VBP1 PRP NN1 JJ2 .1,do you think I sign bad ?
+88,IN1 WRB1 PRP1 .1,from where you ?,WRB1 VB PRP1 IN1 .1,where be you from ?
+89,IN1 WRB1 PRP1 VB1 .1,from where you come ?,WRB1 VB PRP1 VB1 IN1 .1,where do you come from ?
+90,PRP1 VBP1 RB1 .1,you live here ?,VB PRP1 VBP1 RB1 .1,do you live here ?
+91,NNS1 NN1 .1,deaf family ?,VB PRP$ NN1 NNS1 .1,be your family deaf ?
+92,VB1 JJR1 NNS1 PRP1 .1,want more children you ?,VBP PRP1 VB1 JJR1 NN .1,do you want more child ?
+93,VB1 JJR1 NN1 PRP1 .1,want more son you ?,VBP PRP1 VB1 JJR1 NN1 .1,do you want more son ?
+94,PRP1 VBP1 NN1 PRP2 .1,you go school you ?,VB PRP2 VBP1 TO NN1 .1,do you go to school ?
+95,PRP1 VBP1 JJ1 PRP2 .1,you go hospital you ?,VB PRP2 VBP1 TO JJ1 .1,do you go to hospital ?
+96,PRP1 VBP1 VB1 PRP2 .1,you go hotel you ?,VB PRP2 VBP1 TO VB1 .1,do you go to hotel ?
+97,PRP1 VBP1 VBG1 NN1 .1,you need living room ?,VB PRP1 VBP1 DT VBG1 NN1 .1,do you need the living room ?
+98,PRP1 VBP1 JJS1 NN1 .1,you need guest room ?,VB PRP1 VBP1 DT JJS1 NN1 .1,do you need the guest room ?
+99,PRP1 VBP1 NN1 NN2 .1,you need home theater ?,VB PRP1 VBP1 DT NN1 NN2 .1,do you need the home theater ?
+100,PRP1 IN1 NN1 VBN1 .1,you like color red ?,VB PRP1 IN1 DT NN1 VBN1 .1,do you like the color red ?
+101,PRP1 IN1 NN1 NN2 .1,you like color gold ?,VB PRP1 IN1 DT NN1 NN2 .1,do you like the color gold ?
+102,PRP1 VBP1 VB1 FW1 .1,you like color navy ?,VB PRP1 VBP1 DT VB1 FW1 .1,do you like the color navy ?
+103,PRP1 VBP1 VB1 CD1 .1,you like color olive ?,VB PRP1 VBP1 DT VB1 CD1 .1,do you like the color olive ?
+104,PRP1 VBP1 NN1 VBD1 .1,you like color rose ?,VB PRP1 VBP1 DT NN1 NN .1,do you like the color rise ?
+105,PRP1 VBP1 NN1 NN2 NN3 .1,you like color peacock blue ?,VB PRP1 VBP1 DT NN1 NN2 NN3 .1,do you like the color peacock blue ?
+106,PRP1 VBP1 JJ1 IN1 JJ2 .1,you like color pearl white ?,VB PRP1 VBP1 DT JJ1 IN1 JJ2 .1,do you like the color pearl white ?
+107,PRP1 VBP1 JJ1 IN1 NN1 .1,you like color navy blue ?,VB PRP1 VBP1 DT JJ1 IN1 NN1 .1,do you like the color navy blue ?
+108,PRP$1 NN1 VB1 .1,your chair yellow ?,VB PRP$1 NN1 VB1 .1,be your chair yellow ?
+109,PRP$1 NN1 IN1 .1,your chair brown ?,VB PRP$1 NN1 IN1 .1,be your chair brown ?
+110,PRP$1 NN1 RB1 .1,your chair navy ?,VB PRP$1 NN1 RB1 .1,be your chair navy ?
+111,PRP$1 NN1 NN2 NN3 .1,your chair peacock blue ?,VB PRP$1 NN1 NN2 NN3 .1,be your chair peacock blue ?
+112,PRP$1 NN1 IN1 JJ1 .1,your chair pearl white ?,VB PRP$1 NN1 IN1 JJ1 .1,be your chair pearl white ?
+113,PRP$1 NN1 JJ1 NN2 .1,your chair olive green ?,VB PRP$1 NN1 JJ1 NN2 .1,be your chair olive green ?
+114,PRP$1 NN1 IN1 NN2 .1,your chair orchid purple ?,VB PRP$1 NN1 IN1 NN2 .1,be your chair orchid purple ?
+115,PRP$1 NN1 NN2 JJ1 .1,your chair coal black ?,VB PRP$1 NN1 NN2 JJ1 .1,be your chair coal black ?
+116,PRP$1 JJ1 NN1 .1,your table orange ?,VB PRP$1 JJ1 NN1 .1,be your table orange ?
+117,PRP$1 JJ1 JJ2 .1,your table black ?,VB PRP$1 JJ1 JJ2 .1,be your table black ?
+118,PRP$1 JJ1 NN1 NN2 .1,your table peacock blue ?,VB PRP$1 JJ1 NN1 NN2 .1,be your table peacock blue ?
+119,PRP$1 JJ1 JJ2 JJ3 .1,your table pearl white ?,VB PRP$1 JJ1 JJ2 JJ3 .1,be your table pearl white ?
+120,PRP$1 JJ1 JJ2 NN1 .1,your table olive green ?,VB PRP$1 JJ1 JJ2 NN1 .1,be your table olive green ?
+121,PRP$1 JJ1 NN1 JJ2 .1,your table coal black ?,VB PRP$1 JJ1 NN1 JJ2 .1,be your table coal black ?
+122,PRP$1 NN1 VBP1 VBN1 .1,your home olive brown ?,VB PRP$1 NN1 VBP1 VBN1 .1,be your home olive brown ?
+123,WRB1 JJ1 PRP1 .1,how old you ?,WRB1 JJ1 VB PRP1 .1,how old be you ?
+124,WRB1 JJ1 PRP$1 NN1 .1,how old your father ?,WRB1 JJ1 VB PRP$1 NN1 .1,how old be your father ?
+125,WRB1 JJ1 PRP$1 JJR1 NN1 .1,how old your older brother ?,WRB1 JJ1 VB PRP$1 JJ1 NN1 .1,how old be your old brother ?
+126,WRB1 JJ1 PRP$1 NNP1 .1,how old your Grandfather ?,WRB1 JJ1 VB PRP$1 NNP1 .1,how old be your Grandfather ?
+127,WRB1 JJ1 PRP$1 NNP1 NNS1 .1,how old your Grand children ?,WRB1 JJ1 VB PRP$1 NNP1 NN .1,how old be your Grand child ?
+128,WRB1 JJ1 PRP$1 JJ2 NN1 .1,how old your great grandfather ?,WRB1 JJ1 VB PRP$1 JJ2 NN1 .1,how old be your great grandfather ?
+129,WRB1 JJ1 PRP$1 JJ2 NNS1 .1,how old your great grandchildren ?,WRB1 JJ1 VB PRP$1 JJ2 NN .1,how old be your great grandchild ?
+130,PRP1 VBP1 VB1 NN1 RB1 .1,you want go home now ?,VBP PRP1 VBP1 TO VB1 NN1 RB1 .1,do you want to go home now ?
+131,PRP$1 NN1 WP1 NN2 .1,your paper what color ?,WP1 NN2 VB PRP$1 NN1 .1,what color be your paper ?
+132,PRP$1 NNS1 WP1 NN1 .1,your trousers what color ?,WP1 NN1 VB PRP$1 NN .1,what color be your trouser ?
+133,PRP$1 JJ1 VBP1 WP1 NN1 .1,your athletic wear what color ?,WP1 NN1 VB PRP$1 JJ1 VBP1 .1,what color be your athletic wear ?
+134,PRP$1 JJ1 NN1 WP1 NN2 .1,your formal wear what color ?,WP1 NN2 VB PRP$1 JJ1 NN1 .1,what color be your formal wear ?
+135,PRP$1 FW1 WP1 NN1 .1,your kimono what color ?,WP1 NN1 VB PRP$1 FW1 .1,what color be your kimono ?
+136,PRP$1 NNS1 VB1 WP1 NN1 .1,your sports bra what color ?,WP1 NN1 VB PRP$1 NN VB1 .1,what color be your sport bra ?
+137,PRP$1 NN1 VB1 WP1 NN2 .1,your tank top what color ?,WP1 NN2 VB PRP$1 NN1 VB1 .1,what color be your tank top ?
+138,PRP$1 NN1 NN2 WP1 NN3 .1,your trench coat what color ?,WP1 NN3 VB PRP$1 NN1 NN2 .1,what color be your trench coat ?
+139,PRP$1 JJ1 WP1 NN1 .1,your underwear what color ?,WP1 NN1 VB PRP$1 JJ1 .1,what color be your underwear ?
+140,PRP$1 JJS1 WP1 NN1 .1,your vest what color ?,WP1 NN1 VB PRP$1 JJS1 .1,what color be your vest ?
+141,PRP$1 NN1 NNS1 WP1 NN2 .1,your capri pants what color ?,WP1 NN2 VB PRP$1 NN1 NN .1,what color be your capri pant ?
+142,PRP$1 NNS1 VBP1 WP1 NN1 .1,your flannel shirt what color ?,WP1 NN1 VB PRP$1 NNS1 VBP1 .1,what color be your flannel shirt ?
+143,PRP1 VBP1 JJ1 NNS1 NN1 .1,you like red sports bra ?,VB PRP1 VBP1 JJ1 NN NN1 .1,do you like red sport bra ?
+144,PRP1 VBP1 JJ1 NN1 NNS1 .1,you like red capri pants ?,VB PRP1 VBP1 JJ1 NN1 NN .1,do you like red capri pant ?
+145,PRP1 IN1 JJ1 JJ2 NN1 .1,you like blue athletic wear ?,VB PRP1 IN1 JJ1 JJ2 NN1 .1,do you like blue athletic wear ?
+146,PRP1 IN1 JJ1 NN1 .1,you like blue blazer ?,VB PRP1 IN1 JJ1 NN1 .1,do you like blue blazer ?
+147,PRP1 IN1 JJ1 NNS1 .1,you like blue jeans ?,VB PRP1 IN1 JJ1 NN .1,do you like blue jean ?
+148,PRP1 IN1 FW1 FW2 .1,you like blue kimono ?,VB PRP1 IN1 FW1 FW2 .1,do you like blue kimono ?
+149,PRP1 IN1 JJ1 NNS1 NN1 .1,you like blue sports bra ?,VB PRP1 IN1 JJ1 NN NN1 .1,do you like blue sport bra ?
+150,PRP1 IN1 JJ1 NN1 NN2 .1,you like blue tank top ?,VB PRP1 IN1 JJ1 NN1 NN2 .1,do you like blue tank top ?
+151,PRP1 IN1 JJ1 NN1 NNS1 .1,you like blue capri pants ?,VB PRP1 IN1 JJ1 NN1 NN .1,do you like blue capri pant ?
+152,PRP1 IN1 VB1 JJ1 .1,you like blue overall ?,VB PRP1 IN1 VB1 JJ1 .1,do you like blue overall ?
+153,NN1 PRP1 IN1 NN2 .1,pizza you like eat ?,VB PRP1 IN1 TO NN2 NN1 .1,do you like to eat pizza ?
+154,VBN1 NN1 PRP1 IN1 NN2 .1,fried chicken you like eat ?,VB PRP1 IN1 TO NN2 VBN1 NN1 .1,do you like to eat fried chicken ?
+155,NNS1 PRP1 IN1 NN1 .1,ramen you like eat ?,VB PRP1 IN1 TO NN1 NNS1 .1,do you like to eat ramen ?
+156,NN1 NN2 PRP1 IN1 NN3 .1,shrimp scampi you like eat ?,VB PRP1 IN1 TO NN3 NN1 NN .1,do you like to eat shrimp scampis ?
+157,NN1 NNS1 PRP1 IN1 NN2 .1,spring rolls you like eat ?,VB PRP1 IN1 TO NN2 NN1 NN .1,do you like to eat spring rollss ?
+158,JJ1 NN1 PRP1 IN1 NN2 .1,hot dog you like eat ?,VB PRP1 IN1 TO NN2 JJ1 NN1 .1,do you like to eat hot dog ?
+159,VBN1 NNS1 PRP1 IN1 NN1 .1,chicken nuggets you like eat ?,VB PRP1 IN1 TO NN1 VBN1 NN .1,do you like to eat chicken nuggetss ?
+160,RB1 PRP1 IN1 NN1 .1,nachos you like eat ?,VB PRP1 IN1 TO NN1 NN .1,do you like to eat nachoss ?
+161,NN1 PRP1 IN1 WP1 NN2 .1,candy you like what kind ?,WP1 NN2 IN NN1 VBP PRP1 IN1 .1,what kind of candy do you like ?
+162,PRP1 IN1 NNS1 IN2 NN1 .1,you like cookies with milk ?,VB PRP1 IN1 NNS CC NN1 .1,do you like cookie and milk ?
+163,PRP1 VBP1 NNS1 IN1 NN1 .1,you like bananas with milk ?,VB PRP1 VBP1 NNS CC NN1 .1,do you like banana and milk ?
+164,JJ1 PRP1 .1,good you ?,VB PRP1 JJ1 .1,be you good ?
+165,PRP1 VBP1 NNS1 WRB1 .1,you change clothes when ?,WRB1 VBP PRP1 VBP1 NNS .1,when do you change clothe ?
+166,WP1 DT1 NN1 VBP1 NNS1 .1,who this room have glasses ?,WP1 IN DT1 NN1 VBP1 VBN .1,who in this room have glass ?
+167,NNS1 PRP1 VBP1 WRB1 JJ1 .1,shoes you have how many ?,WRB1 JJ1 NN VBP PRP1 VBP1 .1,how many shoe do you have ?
+168,DT1 NN1 WP1 NN2 .1,that table what color ?,WP1 NN2 VB DT1 NN1 .1,what color be that table ?
+169,NN1 IN1 NN2 NN3 .1,cat like eat bird ?,VB NN1 IN1 TO NN2 NN3 .1,do cat like to eat bird ?
+170,NN1 PRP1 IN1 VB1 WP1 NN2 .1,book you like read what kind ?,WP1 NN IN NN1 VBP PRP1 IN1 TO VB1 .1,what mind of book do you like to read ?
+171,DT1 NN1 IN1 NN2 .1,some cat like water ?,VB DT1 NN1 IN1 NN2 .1,do some cat like water ?
+172,PRP1 VBP1 IN1 PRP$1 NN1 .1,you look like your dad ?,VB PRP1 VBP1 IN1 PRP$1 NN .1,do you look like your father ?
+173,PRP1 IN1 NN1 .1,you like monday ?,VB PRP1 IN1 NN1 .1,do you like monday ?
+174,VB1 JJ1 NN1 PRP1 IN1 .1,learn new thing you like ?,VB PRP1 IN1 TO VB1 JJ1 NN1 .1,do you like to learn new thing ?
+175,PRP$1 NN1 VB1 NN2 .1,your dad go college ?,VB PRP$1 NN1 VB1 TO NN2 .1,do your dad go to college ?
+176,PRP$1 NN1 VBP1 NN2 .1,your sister go college ?,VB PRP$1 NN1 VBP1 TO NN2 .1,do your sister go to college ?
+177,PRP$1 NNS1 VB1 NN1 .1,your nephew go college ?,VB PRP$1 NNS1 VB1 TO NN1 .1,do your nephew go to college ?
+178,JJ1 NN1 PRP1 VBP1 WRB1 .1,high school you graduate when ?,WRB1 VBP PRP1 VBP1 JJ1 NN1 .1,when do you graduate high school ?
+179,PRP1 VBP1 DT1 NN1 RB1 .1,you think this class hard ?,VBP PRP1 VBP1 DT1 NN1 VB RB1 .1,do you think this class be hard ?
+180,JJ1 JJ2 NN1 PRP1 IN1 .1,true false test you like ?,VB PRP1 IN1 JJ1 JJ2 NN1 .1,do you like true false test ?
+181,NN1 NN2 PRP1 IN1 VB1 .1,research paper you like write ?,VB PRP1 IN1 TO VB1 NN1 NN2 .1,do you like to write research paper ?
+182,JJ1 NN1 PRP1 VBP1 .1,interpreter list you have ?,VBP PRP1 VBP1 DT NN1 IN JJ1 .1,do you have a list of interpreter ?
+183,NN1 PRP1 VBP1 WRB1 .1,college you graduate when ?,WRB1 VBP PRP1 VBP1 IN NN1 .1,when do you graduate from college ?
+184,PRP1 VBP1 DT1 NN1 NN2 .1,you think this class easy ?,VBP PRP1 VBP1 DT1 NN1 VB NN2 .1,do you think this class be easy ?
+185,JJ1 NN1 PRP1 IN1 .1,cold weather you like ?,VB PRP1 IN1 JJ1 NN1 .1,do you like cold weather ?
+186,NN1 PRP1 IN1 .1,sleep you like ?,VB PRP1 IN1 TO NN1 .1,do you like to sleep ?
+187,NN1 PRP1 VBP1 RP1 WP1 NN2 .1,yesterday you wake up what time ?,WP1 NN2 VBP PRP1 VBP1 RP1 NN1 .1,what time do you wake up yesterday ?
+188,PRP$1 JJ1 NN1 NN2 WP1 .1,your favorite time year what ?,WP1 VB PRP$1 JJ1 NN1 IN NN2 .1,what be your favorite time of year ?
+189,VB1 NN1 PRP1 .1,feel sick you ?,VB PRP1 VB1 NN1 .1,do you feel sick ?
+190,PRP$1 JJ1 WP1 .1,your major what ?,WP1 VB PRP$1 JJ1 .1,what be your major ?
+191,PRP$1 NN1 VB1 VBN1 .1,your teacher have aide ?,VB PRP$1 NN1 VB1 DT VBN1 .1,do your teacher have an aide ?
+192,PRP$1 NN1 NN2 WP1 .1,your neighbor name what ?,WP1 VB PRP$1 NN1 POS NN2 .1,what be your neighbor 's name ?
+193,NN1 PRP$1 NN2 PRP1 VBP1 .1,picture your family you have ?,VBP PRP1 VBP1 DT NN1 IN PRP$1 NN2 .1,do you have a picture of your family ?
+194,PRP$1 NN1 JJ1 NN2 WP1 .1,your family last child who ?,WP1 VB DT JJ1 NN2 IN PRP$1 NN1 .1,who be the last child in your family ?
+195,NN1 PRP$1 JJ1 NN2 WP1 .1,today your last class what ?,WP1 VB PRP$1 JJ1 NN2 NN1 .1,what be your last class today ?
+196,JJ1 NN1 RB1 PRP1 .1,late class always you ?,VB PRP1 RB1 JJ1 TO NN1 .1,be you always late to class ?
+197,JJ1 WRB1 RB1 PRP1 VBP1 .1,library how often you go ?,WRB1 RB1 VBP PRP1 VBP1 TO DT JJ1 .1,how often do you go to the library ?
+198,PRP1 VBP1 RB1 PRP2 .1,you graduate soon you ?,MD PRP2 VB VBP1 RB1 .1,will you be graduate soon ?
+199,PRP1 RB1 WP1 VB1 .1,you recently what do ?,WP1 VB1 PRP1 VB1 RB1 .1,what do you do recently ?
+200,PRP1 IN1 NNS1 .1,you like banana ?,VB PRP1 IN1 NNS1 .1,do you like banana ?
+201,NN1 VBP1 PRP1 .1,bicycle have you ?,VBP PRP1 VBP1 DT NN .1,do you have a bike ?
+202,PRP1 VBP1 IN1 PRP2 .1,you use alabaster you ?,VB PRP2 IN IN1 .1,be you on alabaster ?
+203,PRP1 VBP1 JJR1 PRP2 .1,you use cornflower you ?,VB PRP2 IN JJR1 .1,be you on cornflower ?
+204,PRP1 VBP1 VBD1 PRP2 .1,you use rose you ?,VB PRP2 IN VBD1 .1,be you on rose ?
+205,JJ1 NN1 PRP1,good friend she,PRP1 VB DT JJ1 NN1 .,she be a good friend .
+206,PRP1 VBP1 PRP2 .1,you sick you ?,VB PRP2 VBP1 .1,be you sick ?
+207,PRP$1 NN1 NN2 PRP1 .1,your father sick you ?,VB PRP$1 NN1 NN2 .1,be your father sick ?
+208,PRP$1 JJR1 NN1 NN2 PRP1 .1,your older brother sick you ?,VB PRP$1 JJ NN1 NN2 .1,be your old brother sick ?
+209,PRP$1 VBG1 NN1 PRP1 .1,your sibling sick you ?,VB PRP$1 JJ NN1 .1,be your sible sick ?
+210,PRP$1 JJ1 NN1 PRP1 .1,your relative sick you ?,VB PRP$1 JJ1 NN1 .1,be your relative sick ?
+211,PRP$1 JJ1 NNS1 VBP1 PRP1 .1,your grand children sick you ?,VB PRP$1 JJ1 NN VBP1 .1,be your grand child sick ?
+212,PRP$1 JJ1 NN1 NN2 PRP1 .1,your great grandfather sick you ?,VB PRP$1 JJ1 NN1 NN2 .1,be your great grandfather sick ?
+213,PRP$1 JJ1 JJ2 NN1 PRP1 .1,your great grandchildren sick you ?,VB PRP$1 JJ1 JJ NN1 .1,be your great grandchild sick ?
+214,NN1 NN2 NN3 VBP1,yesterday store mary go,NN3 VBP1 TO DT NN2 NN1 .,mary go to the store yesterday .
+215,NN1 NN2 NN3 VB1,yesterday store father go,PRP$ NN3 VB1 TO DT NN2 NN1 .,your father go to the store yesterday .
+216,NN1 NN2 NN3 NN4 VB1,yesterday store older brother go,PRP$ JJ NN4 VB1 TO DT NN2 NN1 .,your old brother go to the store yesterday .
+217,NN1 NN2 NN3 NN4 VBP1,yesterday store older sister go,PRP$ JJ NN4 VBP1 TO DT NN2 NN1 .,your old sister go to the store yesterday .
+218,NN1 NN2 JJ1 NN3,yesterday store relative go,PRP$ JJ1 NN3 TO DT NN2 NN1 .,your relative go to the store yesterday .
+219,NN1 NN2 JJ1 NNS1 VBP1,yesterday store grand children go,PRP$ JJ1 NN VBP1 TO DT NN2 NN1 .,your grand child go to the store yesterday .
+220,NN1 VBD1 JJ1 NN2 VB1,yesterday store great grandfather go,PRP$ JJ1 NN2 VB1 TO DT VBD1 NN1 .,your great grandfather go to the store yesterday .
+221,NN1 VBD1 JJ1 NNS1 VBP1,yesterday store great grandchildren go,PRP$ JJ1 JJ VBP1 TO DT VBD1 NN1 .,your great grandchild go to the store yesterday .
+222,NN1 NN2 VBG1 VB1,yesterday office sibling go,PRP$ VBG1 VB1 TO DT NN2 NN1 .,your sibling go to the office yesterday .
+223,NN1 NN2 RB1 VBP1,yesterday office niece go,PRP$ RB1 VBP1 TO DT NN2 NN1 .,your niece go to the office yesterday .
+224,NN1 NN2 JJ1 NN3 VB1,yesterday office great grandfather go,PRP$ JJ1 NN3 VB1 TO DT NN2 NN1 .,your great grandfather go to the office yesterday .
+225,NN1 NN2 NN3 IN1 NN4 VBP1,tomorrow police station older brother go,PRP$ JJ NN4 MD VBP1 TO DT NN2 NN3 NN1 .,your old brother will go to the police station tomorrow .
+226,NN1 NN2 NN3 JJR1 NN4 VB1,tomorrow police station younger brother go,PRP$ JJ NN4 MD VB1 TO DT NN2 NN3 NN1 .,your young brother will go to the police station tomorrow .
+227,NN1 NN2 NN3 JJR1 NN4 VBP1,tomorrow police station older sister go,PRP$ JJ NN4 MD VBP1 TO DT NN2 NN3 NN1 .,your old sister will go to the police station tomorrow .
+228,NN1 NN2 NN3 VBG1 VB1,tomorrow police station sibling go,PRP$ VBG1 MD VB1 TO DT NN2 NN3 NN1 .,your sibling will go to the police station tomorrow .
+229,NN1 NN2 NN3 RB1 VB1,tomorrow police station niece go,PRP$ RB1 MD VB1 TO DT NN2 NN3 NN1 .,your niece will go to the police station tomorrow .
+230,NN1 NN2 NN3 JJ1 NNS1 VBP1,tomorrow police station grand children go,PRP$ JJ1 NN MD VBP1 TO DT NN2 NN3 NN1 .,your grand child will go to the police station tomorrow .
+231,NN1 NN2 NN3 JJ1 NN4 VB1,tomorrow police station great grandfather go,PRP$ JJ1 NN4 MD VB1 TO DT NN2 NN3 NN1 .,your great grandfather will go to the police station tomorrow .
+232,NN1 IN1 NN2 NN3,i from thailand i,PRP VB IN1 NN2 .,I be from thailand .
+233,PRP$1 JJR1 NN1 NN2 WP1 .1,your older brother name what ?,WP1 VB PRP$1 JJ NN1 NN2 .1,what be your old brother name ?
+234,PRP$1 VBG1 NN1 WP1 .1,your sibling name what ?,WP1 VB PRP$1 JJ NN1 .1,what be your sible name ?
+235,PRP$1 JJ1 NNS1 VBP1 WP1 .1,your grand children name what ?,WP1 VB PRP$1 JJ1 NN VBP1 .1,what be your grand child name ?
+236,NN1 VBP1 NN2,i accountant i,PRP VB VBP1 .,I be accountant .
+237,JJ1 VBP1 NN1,i athlete i,PRP VB VBP1 .,I be athlete .
+238,NN1 NN2 NN3,i chef i,PRP VB NN2 .,I be chef .
+239,IN1 NN1 NN2,i composer i,PRP VB NN1 .,I be composer .
+240,JJ1 JJ2 NN1 NN2,i graphic designer i,PRP VB JJ2 NN1 .,I be graphic designer .
+241,JJ1 NNS1 NN1 NN2,i police officer i,PRP VB NNS1 NN1 .,I be police officer .
+242,JJ1 JJ2 NN1 NN2 NN3,i real estate agent i,PRP VB JJ2 NN1 NN2 .,I be real estate agent .
+243,NN1 NN2 NN3 NN4,i software developer i,PRP VB NN2 NN3 .,I be software developer .
+244,NN1 VBP1 NN2 NN3,i web developer i,PRP VB VBP1 NN2 .,I be web developer .
+245,JJ1 NN1 NN2 NN3,i delivery driver i,PRP VB NN1 NN2 .,I be delivery driver .
+246,JJ1 VBP1 NN1 NN2,i makeup artist i,PRP VB VBP1 NN1 .,I be makeup artist .
+247,NN1 IN1 NN2 CC1 NN3 NN4,i from antigua and barbuda i,PRP VB IN1 NN2 CC1 NN3 .,I be from antigua and barbuda .
+248,NN1 IN1 NN2 NN3 NN4,i from burkina faso i,PRP VB IN1 NN2 NN3 .,I be from burkina faso .
+249,NN1 IN1 JJ1 JJ2 NN2 NN3,i from central african republic i,PRP VB IN1 DT JJ1 JJ2 NN2 .,I be from the central african republic .
+250,NN1 IN1 JJ1 NN2 NN3,i from czech republic i,PRP VB IN1 DT JJ1 NN2 .,I be from the czech republic .
+251,NN1 IN1 JJ1 NN2 NNS1,i from equatorial guinea i,PRP VB IN1 JJ1 NN2 .,I be from equatorial guinea .
+252,NN1 IN1 NN2 NNS1,i from guinea i,PRP VB IN1 NN2 .,I be from guinea .
+253,NN1 IN1 NNS1 NNS2,i from honduras i,PRP VB IN1 NN .,I be from hondura .
+254,NN1 IN1 NNS1 VBP1,i from maldives i,PRP VB IN1 DT NN .,I be from the maldive .
+255,NN1 IN1 JJ1 NNS1 VBP1,i from marshall islands i,PRP VB IN1 DT JJ1 NN .,I be from the marshall island .
+256,NN1 IN1 JJ1 NN2,i from nepal i,PRP VB IN1 JJ1 .,I be from nepal .
+257,NN1 IN1 NNS1 JJ1,i from netherlands i,PRP VB IN1 DT NNS1 .,I be from the netherlands .
+258,NN1 IN1 JJ1 JJ2 NN2 NNS1,i from papua new guinea i,PRP VB IN1 JJ1 JJ2 NN2 .,I be from papua new guinea .
+259,NN1 IN1 NN2 NNS1 CC1 NN3 NN4,i from saint kitts and nevis i,PRP VB IN1 NN2 NNS1 CC1 NN3 .,I be from saint kitts and nevis .
+260,NN1 IN1 NN2 NN3 CC1 DT1 NNS1 NN4,i from saint vincent and the grenadines i,PRP VB IN1 NN2 NN3 CC1 DT1 NN .,I be from saint vincent and the grenadine .
+261,NN1 IN1 JJ1 NN2 CC1 NN3 NN4,i from sao tome and principe i,PRP VB IN1 JJ1 NN2 CC1 NN3 .,I be from sao tome and principe .
+262,NN1 IN1 JJ1 NN2 VBZ1 NNS1,i from united arab emirates i,PRP VB IN1 DT JJ1 NN2 NN .,I be from the united arab emirate .
+263,PRP$1 NN1 .1,your name ?,WP VB PRP$1 NN1 .1,what be your name ?
+264,PRP1 VBP1 PRP2,I student I,PRP2 VB VBP1,I be student

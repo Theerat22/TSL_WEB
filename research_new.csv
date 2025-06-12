@@ -1,0 +1,2299 @@
+A,B
+your dad name?,what is your dad's name?
+your teacher name?,what is your teacher's name?
+your father name?,what is your father's name?
+your mother name?,what is your mother's name?
+your grandfather name?,what is your grandfather's name?
+your grandmother name?,what is your grandmother's name?
+your elder name?,what is your elder's name?
+your daughter name?,what is your daughter's name?
+your grandson name?,what is your grandson's name?
+your granddaughter name?,what is your granddaughter's name?
+your uncle name?,what is your uncle's name?
+your aunt name?,what is your aunt's name?
+your wife name?,what is your wife's name?
+your husband name?,what is your husband's name?
+your child name?,what is your child's name?
+deaf you?,are you deaf?
+deaf your father?,is your father deaf?
+deaf your daughter?,is your daughter deaf?
+deaf your elder?,is your elder deaf?
+deaf your younger?,is your younger deaf?
+deaf your uncle?,is your uncle deaf?
+deaf your aunt?,is your aunt deaf?
+deaf your wife?,is your wife deaf?
+deaf your husband?,is your husband deaf?
+deaf your child?,is your child deaf?
+deaf your grandchild?,is your grandchild deaf?
+student your son?,is your son a student?
+who he?,who is he?
+who she?,who is she?
+again name you?,what is your name again?
+again name your father?,what is your father name again?
+again name your mother?,what is your mother name again?
+again name your grandfather?,what is your grandfather name again?
+again name your grandmother?,what is your grandmother name again?
+again name your son?,what is your son name again?
+again name your daughter?,what is your daughter name again?
+again name your elder?,what is your elder name again?
+again name your younger sister?,what is younger sister name again?
+again name your grandson?,what is your grandson name again?
+again name your granddaughter?,what is your granddaughter name again?
+again name your uncle?,what is your uncle name again?
+again name your aunt?,what is your aunt name again?
+again name your wife?,what is your wife name again?
+again name your husband?,what is your husband name again?
+again name your child?,what is your child name again?
+i student i,i am student?
+he student he?,is he a student?
+he accountant he?,is he an accountant?
+he actor he?,is he an actor?
+he architect he?,is he an architect?
+he artist he?,is he an artist?
+he astronomer he?,is he an astronomer?
+he athlete he?,is he an athlete?
+he author he?,is he an author?
+he baker he?,is he a baker?
+he banker he?,is he a banker?
+he barista he?,is he a barista?
+he bartender he?,is he a bartender?
+he biologist he?,is he a biologist?
+he builder he?,is he a builder?
+he butcher he?,is he a butcher?
+he carpenter he?,is he a carpenter?
+he chef he?,is he a chef?
+he chemist he?,is he a chemist?
+he clerk he?,is he a clerk?
+he coach he?,is he a coach?
+he composer he?,is he a composer?
+he dentist he?,is he a dentist?
+he designer he?,is he a designer?
+he detective he?,is he a detective?
+he doctor he?,is he a doctor?
+he driver he?,is he a driver?
+he electrician he?,is he an electrician?
+he engineer he?,is he an engineer?
+he farmer he?,is he a farmer?
+he firefighter he?,is he a firefighter?
+he fisherman he?,is he a fisherman?
+he flight attendant he?,is he a flight attendant?
+he gardener he?,is he a gardener?
+he geologist he?,is he a geologist?
+he hairdresser he?,is he a hairdresser?
+he journalist he?,is he a journalist?
+he judge he?,is he a judge?
+he lawyer he?,is he a lawyer?
+he librarian he?,is he a librarian?
+he maid he?,is he a maid?
+he manager he?,is he a manager?
+he mechanic he?,is he a mechanic?
+he musician he?,is he a musician?
+he nurse he?,is he a nurse?
+he nutritionist he?,is he a nutritionist?
+he painter he?,is he a painter?
+he paramedic he?,is he a paramedic?
+he pharmacist he?,is he a pharmacist?
+he photographer he?,is he a photographer?
+he physician he?,is he a physician?
+he pilot he?,is he a pilot?
+he plumber he?,is he a plumber?
+he police officer he?,is he a police officer?
+he politician he?,is he a politician?
+he professor he?,is he a professor?
+he programmer he?,is he a programmer?
+he psychologist he?,is he a psychologist?
+he receptionist he?,is he a receptionist?
+he scientist he?,is he a scientist?
+he secretary he?,is he a secretary?
+he singer he?,is he a singer?
+he soccer player he?,is he a soccer player?
+he soldier he?,is he a soldier?
+he surgeon he?,is he a surgeon?
+he teacher he?,is he a teacher?
+he technician he?,is he a technician?
+he therapist he?,is he a therapist?
+he translator he?,is he a translator?
+he veterinarian he?,is he a veterinarian?
+he waiter he?,is he a waiter?
+he waitress he?,is he a waitress?
+he web developer he?,is he a web developer?
+he writer he?,is he a writer?
+he zookeeper he?,is he a zookeeper?
+he astronaut he?,is he an astronaut?
+he cartoonist he?,is he a cartoonist?
+he economist he?,is he an economist?
+he forester he?,is he a forester?
+he fashion designer he?,is he a fashion designer?
+he oceanographer he?,is he an oceanographer?
+he pediatrician he?,is he a pediatrician?
+he social worker he?,is he a social worker?
+he speech therapist he?,is he a speech therapist?
+he statistician he?,is he a statistician?
+he taxi driver he?,is he a taxi driver?
+he tour guide he?,is he a tour guide?
+he virologist he?,is he a virologist?
+he web designer he?,is he a web designer?
+he zoologist he?,is he a zoologist?
+he acupuncturist he?,is he an acupuncturist?
+he actuary he?,is he an actuary?
+he event planner he?,is he an event planner?
+he fashion model he?,is he a fashion model?
+he jeweler he?,is he a jeweler?
+he mixologist he?,is he a mixologist?
+she student she?,is she a student?
+she accountant she?,is she an accountant?
+she actor she?,is she an actor?
+she architect she?,is she an architect?
+she artist she?,is she an artist?
+she astronomer she?,is she an astronomer?
+she athlete she?,is she an athlete?
+she author she?,is she an author?
+she baker she?,is she a baker?
+she banker she?,is she a banker?
+she barista she?,is she a barista?
+she bartender she?,is she a bartender?
+she biologist she?,is she a biologist?
+she builder she?,is she a builder?
+she butcher she?,is she a butcher?
+she carpenter she?,is she a carpenter?
+she chef she?,is she a chef?
+she chemist she?,is she a chemist?
+she clerk she?,is she a clerk?
+she coach she?,is she a coach?
+she composer she?,is she a composer?
+she dentist she?,is she a dentist?
+she designer she?,is she a designer?
+she detective she?,is she a detective?
+she doctor she?,is she a doctor?
+she driver she?,is she a driver?
+she electrician she?,is she an electrician?
+she engineer she?,is she an engineer?
+she farmer she?,is she a farmer?
+she firefighter she?,is she a firefighter?
+she fisherman she?,is she a fisherman?
+she flight attendant she?,is she a flight attendant?
+she gardener she?,is she a gardener?
+she geologist she?,is she a geologist?
+she hairdresser she?,is she a hairdresser?
+she journalist she?,is she a journalist?
+she judge she?,is she a judge?
+she lawyer she?,is she a lawyer?
+she librarian she?,is she a librarian?
+she maid she?,is she a maid?
+she manager she?,is she a manager?
+she mechanic she?,is she a mechanic?
+she musician she?,is she a musician?
+she nurse she?,is she a nurse?
+she nutritionist she?,is she a nutritionist?
+she painter she?,is she a painter?
+she paramedic she?,is she a paramedic?
+she pharmacist she?,is she a pharmacist?
+she photographer she?,is she a photographer?
+she physician she?,is she a physician?
+she pilot she?,is she a pilot?
+she plumber she?,is she a plumber?
+she police officer she?,is she a police officer?
+she politician she?,is she a politician?
+she professor she?,is she a professor?
+she programmer she?,is she a programmer?
+she psychologist she?,is she a psychologist?
+she receptionist she?,is she a receptionist?
+she scientist she?,is she a scientist?
+she secretary she?,is she a secretary?
+she singer she?,is she a singer?
+she soccer player she?,is she a soccer player?
+she soldier she?,is she a soldier?
+she surgeon she?,is she a surgeon?
+she teacher she?,is she a teacher?
+she technician she?,is she a technician?
+she therapist she?,is she a therapist?
+she translator she?,is she a translator?
+she veterinarian she?,is she a veterinarian?
+she waiter she?,is she a waiter?
+she waitress she?,is she a waitress?
+she web developer she?,is she a web developer?
+she writer she?,is she a writer?
+she zookeeper she?,is she a zookeeper?
+she astronaut she?,is she an astronaut?
+she cartoonist she?,is she a cartoonist?
+she economist she?,is she an economist?
+she forester she?,is she a forester?
+she fashion designer she?,is she a fashion designer?
+she oceanographer she?,is she an oceanographer?
+she pediatrician she?,is she a pediatrician?
+she social worker she?,is she a social worker?
+she speech therapist she?,is she a speech therapist?
+she statistician she?,is she a statistician?
+she taxi driver she?,is she a taxi driver?
+she tour guide she?,is she a tour guide?
+she virologist she?,is she a virologist?
+she web designer she?,is she a web designer?
+she zoologist she?,is she a zoologist?
+she acupuncturist she?,is she an acupuncturist?
+she actuary she?,is she an actuary?
+she event planner she?,is she an event planner?
+she fashion model she?,is she a fashion model?
+she jeweler she?,is she a jeweler?
+she mixologist she?,is she a mixologist?
+this your?,is this yours?
+this she?,is this hers?
+this he?,is this hims?
+hearing you?,are you a hearing person?
+student you?,are you a student?
+teacher you?,are you a teacher?
+nurse you?,are you a nurse?
+programmer you?,are you a programmer?
+engineer you?,are you an engineer?
+doctor you?,are you a doctor?
+manager you?,are you a manager?
+writer you?,are you a writer?
+researcher you?,are you a researcher?
+designer you?,are you a designer?
+electrician you?,are you an electrician?
+plumber you?,are you a plumber?
+mechanic you?,are you a mechanic?
+accountant you?,are you a accountant?
+financial analyst you?,are you a financial analyst?
+marketing specialist you?,are you a marketing specialist?
+salesperson you?,are you a salesperson?
+project manager you?,are you a project manager?
+pilot you?,are you a pilot?
+lawyer you?,are you a lawyer?
+technical writer you?,are you a technical writer?
+scientist you?,are you a scientist?
+chef you?,are you a chef?
+graphic designer you?,are you a graphic designer?
+data analyst you?,are you a data analyst?
+pharmacist you?,are you a pharmacist?
+architect you?,are you an architect?
+veterinarian you?,are you a veterinarian?
+psychologist you?,are you a psychologist?
+photographer you?,are you a photographer?
+web developer you?,are you a web developer?
+social worker you?,are you a social worker?
+real estate agent you?,are you a real estate agent?
+paramedic you?,are you a paramedic?
+dentist you?,are you a dentist?
+librarian you?,are you a librarian?
+entrepreneur you?,are you an entrepreneur?
+astronaut you?,are you an astronaut?
+meteorologist you?,are you a meteorologist?
+geologist you?,are you a geologist?
+mathematician you?,are you a mathematician?
+translator you?,are you a translator?
+biologist you?,are you a biologist?
+chemist you?,are you a chemist?
+physicist you?,are you a physicist?
+firefighter you?,are you a firefighter?
+police officer you?,are you a police officer?
+actor you?,are you an actor?
+singer you?,are you a singer?
+dancer you?,are you a dancer?
+athlete you?,are you an athlete?
+journalist you?,are you a journalist?
+astronomer you?,are you an astronomer?
+cartoonist you?,are you a cartoonist?
+forensic scientist you?,are you a forensic scientist?
+fashion designer you?,are you a fashion designer?
+phlebotomist you?,are you a phlebotomist?
+radiologist you?,are you a radiologist?
+IT specialist you?,are you an IT specialist?
+human resources manager you?,are you a human resources manager?
+speech therapist you?,are you a speech therapist?
+audiologist you?,are you an audiologist?
+pharmacy technician you?,are you a pharmacy technician?
+air traffic controller you?,are you an air traffic controller?
+mechanical engineer you?,are you a mechanical engineer?
+civil engineer you?,are you a civil engineer?
+biomedical engineer you?,are you a biomedical engineer?
+chemical engineer you?,are you a chemical engineer?
+computer scientist you?,are you a computer scientist?
+data scientist you?,are you a data scientist?
+cybersecurity analyst you?,are you a cybersecurity analyst?
+game developer you?,are you a game developer?
+environmental scientist you?,are you an environmental scientist?
+physiotherapist you?,are you a physiotherapist?
+occupational therapist you?,are you an occupational therapist?
+emergency medical technician you?,are you an emergency medical technician?
+veterinary technician you?,are you a veterinary technician?
+flight attendant you?,are you a flight attendant?
+tour guide you?,are you a tour guide?
+insurance agent you?,are you an insurance agent?
+financial planner you?,are you a financial planner?
+personal trainer you?,are you a personal trainer?
+event planner you?,are you an event planner?
+social media manager you?,are you a social media manager?
+video editor you?,are you a video editor?
+sound engineer you?,are you a sound engineer?
+marketing manager you?,are you a marketing manager?
+customer service representative you?,are you a customer service representative?
+radiologic technologist you?,are you a radiologic technologist?
+physical therapist you?,are you a physical therapist?
+nutritionist you?,are you a nutritionist?
+massage therapist you?,are you a massage therapist?
+acupuncturist you?,are you an acupuncturist?
+landscape architect you?,are you a landscape architect?
+welder you?,are you a welder?
+carpenter you?,are you a carpenter?
+bricklayer you?,are you a bricklayer?
+you learn sign where?,where did you learn sign?
+you learn english where?,where did you learn english?
+you learn spanish where?,where did you learn spanish?
+you learn mandarin where?,where did you learn mandarin?
+you learn hindi where?,where did you learn hindi?
+you learn arabic where?,where did you learn arabic?
+you learn portuguese where?,where did you learn portuguese?
+you learn bengali where?,where did you learn bengali?
+you learn russian where?,where did you learn russian?
+you learn urdu where?,where did you learn urdu?
+you learn indonesian where?,where did you learn indonesian?
+you learn german where?,where did you learn german?
+you learn turkish where?,where did you learn turkish?
+you learn french where?,where did you learn french?
+you learn marathi where?,where did you learn marathi?
+you learn telugu where?,where did you learn telugu?
+you learn vietnamese where?,where did you learn vietnamese?
+you learn tamil where?,where did you learn tamil?
+you learn yoruba where?,where did you learn yoruba?
+you learn italian where?,where did you learn italian?
+you learn thai where?,where did you learn thai?
+you learn gujarati where?,where did you learn gujarati?
+you learn javanese where?,where did you learn javanese?
+you learn kannada where?,where did you learn kannada?
+you learn polish where?,where did you learn polish?
+you learn malayalam where?,where did you learn malayalam?
+you learn burmese where?,where did you learn burmese?
+you learn ukrainian where?,where did you learn ukrainian?
+you learn bhojpuri where?,where did you learn bhojpuri?
+you learn tagalog where?,where did you learn tagalog?
+you learn maithili where?,where did you learn maithili?
+you learn uzbek where?,where did you learn uzbek?
+you learn sindhi where?,where did you learn sindhi?
+you learn amharic where?,where did you learn amharic?
+you learn farsi where?,where did you learn farsi?
+you learn romanian where?,where did you learn romanian?
+you learn oromo where?,where did you learn oromo?
+you learn hausa where?,where did you learn hausa?
+you learn punjabi where?,where did you learn punjabi?
+you learn malay where?,where did you learn malay?
+you learn swahili where?,where did you learn swahili?
+you learn czech where?,where did you learn czech?
+you learn greek where?,where did you learn greek?
+you learn azerbaijani where?,where did you learn azerbaijani?
+you learn kurdish where?,where did you learn kurdish?
+you learn dutch where?,where did you learn dutch?
+you learn pashto where?,where did you learn pashto?
+you learn serbo-croatian where?,where did you learn serbo-croatian?
+you learn magahi where?,where did you learn magahi?
+you learn haryanvi where?,where did you learn haryanvi?
+you learn chhattisgarhi where?,where did you learn chhattisgarhi?
+you learn fijian hindi where?,where did you learn fijian hindi?
+you learn hungarian where?,where did you learn hungarian?
+you learn chittagonian where?,where did you learn chittagonian?
+you learn kazakh where?,where did you learn kazakh?
+you learn kinyarwanda where?,where did you learn kinyarwanda?
+you learn zulu where?,where did you learn zulu?
+you learn slovak where?,where did you learn slovak?
+you learn malagasy where?,where did you learn malagasy?
+you learn bavarian where?,where did you learn bavarian?
+you learn dholuo where?,where did you learn dholuo?
+you learn south azerbaijani where?,where did you learn south azerbaijani?
+you learn cebuano where?,where did you learn cebuano?
+you learn belarusian where?,where did you learn belarusian?
+you learn sundanese where?,where did you learn sundanese?
+you learn rundi where?,where did you learn rundi?
+you learn north azerbaijani where?,where did you learn north azerbaijani?
+you learn tatar where?,where did you learn tatar?
+you learn twi where?,where did you learn twi?
+you learn sesotho where?,where did you learn sesotho?
+you learn tajik where?,where did you learn tajik?
+you learn guarani where?,where did you learn guarani?
+you learn konkani where?,where did you learn konkani?
+you learn bashkir where?,where did you learn bashkir?
+you learn uyghur where?,where did you learn uyghur?
+you learn hiligaynon where?,where did you learn hiligaynon?
+you learn somali where?,where did you learn somali?
+you learn yakut where?,where did you learn yakut?
+you learn lingala where?,where did you learn lingala?
+you learn sranan tongo where?,where did you learn sranan tongo?
+you learn kirundi where?,where did you learn kirundi?
+you learn mongolian where?,where did you learn mongolian?
+you learn arakanese where?,where did you learn arakanese?
+you learn sardinian where?,where did you learn sardinian?
+you learn sign why ?,why are you learning sign?
+you learn english why?,why did you learn english?
+you learn spanish why?,why did you learn spanish?
+you learn mandarin why?,why did you learn mandarin?
+you learn hindi why?,why did you learn hindi?
+you learn arabic why?,why did you learn arabic?
+you learn portuguese why?,why did you learn portuguese?
+you learn bengali why?,why did you learn bengali?
+you learn russian why?,why did you learn russian?
+you learn urdu why?,why did you learn urdu?
+you learn indonesian why?,why did you learn indonesian?
+you learn german why?,why did you learn german?
+you learn turkish why?,why did you learn turkish?
+you learn french why?,why did you learn french?
+you learn marathi why?,why did you learn marathi?
+you learn telugu why?,why did you learn telugu?
+you learn vietnamese why?,why did you learn vietnamese?
+you learn tamil why?,why did you learn tamil?
+you learn yoruba why?,why did you learn yoruba?
+you learn italian why?,why did you learn italian?
+you learn thai why?,why did you learn thai?
+you learn gujarati why?,why did you learn gujarati?
+you learn javanese why?,why did you learn javanese?
+you learn kannada why?,why did you learn kannada?
+you learn polish why?,why did you learn polish?
+you learn malayalam why?,why did you learn malayalam?
+you learn burmese why?,why did you learn burmese?
+you learn ukrainian why?,why did you learn ukrainian?
+you learn bhojpuri why?,why did you learn bhojpuri?
+you learn tagalog why?,why did you learn tagalog?
+you learn maithili why?,why did you learn maithili?
+you learn uzbek why?,why did you learn uzbek?
+you learn sindhi why?,why did you learn sindhi?
+you learn amharic why?,why did you learn amharic?
+you learn farsi why?,why did you learn farsi?
+you learn romanian why?,why did you learn romanian?
+you learn oromo why?,why did you learn oromo?
+you learn hausa why?,why did you learn hausa?
+you learn punjabi why?,why did you learn punjabi?
+you learn malay why?,why did you learn malay?
+you learn swahili why?,why did you learn swahili?
+you learn czech why?,why did you learn czech?
+you learn greek why?,why did you learn greek?
+you learn azerbaijani why?,why did you learn azerbaijani?
+you learn kurdish why?,why did you learn kurdish?
+you learn dutch why?,why did you learn dutch?
+you learn pashto why?,why did you learn pashto?
+you learn serbo-croatian why?,why did you learn serbo-croatian?
+you learn magahi why?,why did you learn magahi?
+you learn haryanvi why?,why did you learn haryanvi?
+you learn chhattisgarhi why?,why did you learn chhattisgarhi?
+you learn fijian hindi why?,why did you learn fijian hindi?
+you learn hungarian why?,why did you learn hungarian?
+you learn chittagonian why?,why did you learn chittagonian?
+you learn kazakh why?,why did you learn kazakh?
+you learn kinyarwanda why?,why did you learn kinyarwanda?
+you learn zulu why?,why did you learn zulu?
+you learn slovak why?,why did you learn slovak?
+you learn malagasy why?,why did you learn malagasy?
+you learn bavarian why?,why did you learn bavarian?
+you learn dholuo why?,why did you learn dholuo?
+you learn south azerbaijani why?,why did you learn south azerbaijani?
+you learn cebuano why?,why did you learn cebuano?
+you learn belarusian why?,why did you learn belarusian?
+you learn sundanese why?,why did you learn sundanese?
+you learn rundi why?,why did you learn rundi?
+you learn north azerbaijani why?,why did you learn north azerbaijani?
+you learn tatar why?,why did you learn tatar?
+you learn twi why?,why did you learn twi?
+you learn sesotho why?,why did you learn sesotho?
+you learn tajik why?,why did you learn tajik?
+you learn guarani why?,why did you learn guarani?
+you learn konkani why?,why did you learn konkani?
+you learn bashkir why?,why did you learn bashkir?
+you learn uyghur why?,why did you learn uyghur?
+you learn hiligaynon why?,why did you learn hiligaynon?
+you learn somali why?,why did you learn somali?
+you learn yakut why?,why did you learn yakut?
+you learn lingala why?,why did you learn lingala?
+you learn sranan tongo why?,why did you learn sranan tongo?
+you learn kirundi why?,why did you learn kirundi?
+you learn mongolian why?,why did you learn mongolian?
+you learn arakanese why?,why did you learn arakanese?
+you learn sardinian why?,why did you learn sardinian?
+they learn sign?,are they learning sign language?
+they learn english?,are they learning english language?
+they learn spanish?,are they learning spanish language?
+they learn mandarin?,are they learning mandarin language?
+they learn hindi?,are they learning hindi language?
+they learn arabic?,are they learning arabic language?
+they learn portuguese?,are they learning portuguese language?
+they learn bengali?,are they learning bengali language?
+they learn russian?,are they learning russian language?
+they learn urdu?,are they learning urdu language?
+they learn indonesian?,are they learning indonesian language?
+they learn german?,are they learning german language?
+they learn turkish?,are they learning turkish language?
+they learn french?,are they learning french language?
+they learn marathi?,are they learning marathi language?
+they learn telugu?,are they learning telugu language?
+they learn vietnamese?,are they learning vietnamese language?
+they learn tamil?,are they learning tamil language?
+they learn yoruba?,are they learning yoruba language?
+they learn italian?,are they learning italian language?
+they learn thai?,are they learning thai language?
+they learn gujarati?,are they learning gujarati language?
+they learn javanese?,are they learning javanese language?
+they learn kannada?,are they learning kannada language?
+they learn polish?,are they learning polish language?
+they learn malayalam?,are they learning malayalam language?
+they learn burmese?,are they learning burmese language?
+they learn ukrainian?,are they learning ukrainian language?
+they learn bhojpuri?,are they learning bhojpuri language?
+they learn tagalog?,are they learning tagalog language?
+they learn maithili?,are they learning maithili language?
+they learn uzbek?,are they learning uzbek language?
+they learn sindhi?,are they learning sindhi language?
+they learn amharic?,are they learning amharic language?
+they learn farsi?,are they learning farsi language?
+they learn romanian?,are they learning romanian language?
+they learn oromo?,are they learning oromo language?
+they learn hausa?,are they learning hausa language?
+they learn punjabi?,are they learning punjabi language?
+they learn malay?,are they learning malay language?
+they learn swahili?,are they learning swahili language?
+they learn czech?,are they learning czech language?
+they learn greek?,are they learning greek language?
+they learn azerbaijani?,are they learning azerbaijani language?
+they learn kurdish?,are they learning kurdish language?
+they learn dutch?,are they learning dutch language?
+they learn pashto?,are they learning pashto language?
+they learn serbo-croatian?,are they learning serbo-croatian language?
+they learn magahi?,are they learning magahi language?
+they learn haryanvi?,are they learning haryanvi language?
+they learn chhattisgarhi?,are they learning chhattisgarhi language?
+they learn fijian hindi?,are they learning fijian hindi language?
+they learn hungarian?,are they learning hungarian language?
+they learn chittagonian?,are they learning chittagonian language?
+they learn kazakh?,are they learning kazakh language?
+they learn kinyarwanda?,are they learning kinyarwanda language?
+they learn zulu?,are they learning zulu language?
+they learn slovak?,are they learning slovak language?
+they learn malagasy?,are they learning malagasy language?
+they learn bavarian?,are they learning bavarian language?
+they learn dholuo?,are they learning dholuo language?
+they learn south azerbaijani?,are they learning south azerbaijani language?
+they learn cebuano?,are they learning cebuano language?
+they learn belarusian?,are they learning belarusian language?
+they learn sundanese?,are they learning sundanese language?
+they learn rundi?,are they learning rundi language?
+they learn north azerbaijani?,are they learning north azerbaijani language?
+they learn tatar?,are they learning tatar language?
+they learn twi?,are they learning twi language?
+they learn sesotho?,are they learning sesotho language?
+they learn tajik?,are they learning tajik language?
+they learn guarani?,are they learning guarani language?
+they learn konkani?,are they learning konkani language?
+they learn bashkir?,are they learning bashkir language?
+they learn uyghur?,are they learning uyghur language?
+they learn hiligaynon?,are they learning hiligaynon language?
+they learn somali?,are they learning somali language?
+they learn yakut?,are they learning yakut language?
+they learn lingala?,are they learning lingala language?
+they learn sranan tongo?,are they learning sranan tongo language?
+they learn kirundi?,are they learning kirundi language?
+they learn mongolian?,are they learning mongolian language?
+they learn arakanese?,are they learning arakanese language?
+they learn sardinian?,are they learning sardinian language?
+you like learn sign?,do you like learning sign language?
+you like learn english?,do you like learning english language?
+you like learn spanish?,do you like learning spanish language?
+you like learn mandarin?,do you like learning mandarin language?
+you like learn hindi?,do you like learning hindi language?
+you like learn arabic?,do you like learning arabic language?
+you like learn portuguese?,do you like learning portuguese language?
+you like learn bengali?,do you like learning bengali language?
+you like learn russian?,do you like learning russian language?
+you like learn urdu?,do you like learning urdu language?
+you like learn indonesian?,do you like learning indonesian language?
+you like learn german?,do you like learning german language?
+you like learn turkish?,do you like learning turkish language?
+you like learn french?,do you like learning french language?
+you like learn marathi?,do you like learning marathi language?
+you like learn telugu?,do you like learning telugu language?
+you like learn vietnamese?,do you like learning vietnamese language?
+you like learn tamil?,do you like learning tamil language?
+you like learn yoruba?,do you like learning yoruba language?
+you like learn italian?,do you like learning italian language?
+you like learn thai?,do you like learning thai language?
+you like learn gujarati?,do you like learning gujarati language?
+you like learn javanese?,do you like learning javanese language?
+you like learn kannada?,do you like learning kannada language?
+you like learn polish?,do you like learning polish language?
+you like learn malayalam?,do you like learning malayalam language?
+you like learn burmese?,do you like learning burmese language?
+you like learn ukrainian?,do you like learning ukrainian language?
+you like learn bhojpuri?,do you like learning bhojpuri language?
+you like learn tagalog?,do you like learning tagalog language?
+you like learn maithili?,do you like learning maithili language?
+you like learn uzbek?,do you like learning uzbek language?
+you like learn sindhi?,do you like learning sindhi language?
+you like learn amharic?,do you like learning amharic language?
+you like learn farsi?,do you like learning farsi language?
+you like learn romanian?,do you like learning romanian language?
+you like learn oromo?,do you like learning oromo language?
+you like learn hausa?,do you like learning hausa language?
+you like learn punjabi?,do you like learning punjabi language?
+you like learn malay?,do you like learning malay language?
+you like learn swahili?,do you like learning swahili language?
+you like learn czech?,do you like learning czech language?
+you like learn greek?,do you like learning greek language?
+you like learn azerbaijani?,do you like learning azerbaijani language?
+you like learn kurdish?,do you like learning kurdish language?
+you like learn dutch?,do you like learning dutch language?
+you like learn pashto?,do you like learning pashto language?
+you like learn serbo-croatian?,do you like learning serbo-croatian language?
+you like learn magahi?,do you like learning magahi language?
+you like learn haryanvi?,do you like learning haryanvi language?
+you like learn chhattisgarhi?,do you like learning chhattisgarhi language?
+you like learn fijian hindi?,do you like learning fijian hindi language?
+you like learn hungarian?,do you like learning hungarian language?
+you like learn chittagonian?,do you like learning chittagonian language?
+you like learn kazakh?,do you like learning kazakh language?
+you like learn kinyarwanda?,do you like learning kinyarwanda language?
+you like learn zulu?,do you like learning zulu language?
+you like learn slovak?,do you like learning slovak language?
+you like learn malagasy?,do you like learning malagasy language?
+you like learn bavarian?,do you like learning bavarian language?
+you like learn dholuo?,do you like learning dholuo language?
+you like learn south azerbaijani?,do you like learning south azerbaijani language?
+you like learn cebuano?,do you like learning cebuano language?
+you like learn belarusian?,do you like learning belarusian language?
+you like learn sundanese?,do you like learning sundanese language?
+you like learn rundi?,do you like learning rundi language?
+you like learn north azerbaijani?,do you like learning north azerbaijani language?
+you like learn tatar?,do you like learning tatar language?
+you like learn twi?,do you like learning twi language?
+you like learn sesotho?,do you like learning sesotho language?
+you like learn tajik?,do you like learning tajik language?
+you like learn guarani?,do you like learning guarani language?
+you like learn konkani?,do you like learning konkani language?
+you like learn bashkir?,do you like learning bashkir language?
+you like learn uyghur?,do you like learning uyghur language?
+you like learn hiligaynon?,do you like learning hiligaynon language?
+you like learn somali?,do you like learning somali language?
+you like learn yakut?,do you like learning yakut language?
+you like learn lingala?,do you like learning lingala language?
+you like learn sranan tongo?,do you like learning sranan tongo language?
+you like learn kirundi?,do you like learning kirundi language?
+you like learn mongolian?,do you like learning mongolian language?
+you like learn arakanese?,do you like learning arakanese language?
+you like learn sardinian?,do you like learning sardinian language?
+you like learn mathematics?,do you like learning mathematics?
+you like learn physics?,do you like learning physics?
+you like learn chemistry?,do you like learning chemistry?
+you like learn biology?,do you like learning biology?
+you like learn computer science?,do you like learning computer science?
+you like learn english literature?,do you like learning english literature?
+you like learn history?,do you like learning history?
+you like learn geography?,do you like learning geography?
+you like learn economics?,do you like learning economics?
+you like learn political science?,do you like learning political science?
+you like learn psychology?,do you like learning psychology?
+you like learn sociology?,do you like learning sociology?
+you like learn anthropology?,do you like learning anthropology?
+you like learn philosophy?,do you like learning philosophy?
+you like learn religious studies?,do you like learning religious studies?
+you like learn art history?,do you like learning art history?
+you like learn music?,do you like learning music?
+you like learn drama?,do you like learning drama?
+you like learn dance?,do you like learning dance?
+you like learn physical education?,do you like learning physical education?
+you like learn environmental science?,do you like learning environmental science?
+you like learn astronomy?,do you like learning astronomy?
+you like learn geology?,do you like learning geology?
+you like learn meteorology?,do you like learning meteorology?
+you like learn oceanography?,do you like learning oceanography?
+you like learn engineering?,do you like learning engineering?
+you like learn architecture?,do you like learning architecture?
+you like learn urban planning?,do you like learning urban planning?
+you like learn business administration?,do you like learning business administration?
+you like learn marketing?,do you like learning marketing?
+you like learn finance?,do you like learning finance?
+you like learn accounting?,do you like learning accounting?
+you like learn management?,do you like learning management?
+you like learn human resources?,do you like learning human resources?
+you like learn international relations?,do you like learning international relations?
+you like learn law?,do you like learning law?
+you like learn medicine?,do you like learning medicine?
+you like learn nursing?,do you like learning nursing?
+you like learn dentistry?,do you like learning dentistry?
+you like learn pharmacy?,do you like learning pharmacy?
+you like learn veterinary science?,do you like learning veterinary science?
+you like learn agriculture?,do you like learning agriculture?
+you like learn food science?,do you like learning food science?
+you like learn nutrition?,do you like learning nutrition?
+you like learn dietetics?,do you like learning dietetics?
+you like learn culinary arts?,do you like learning culinary arts?
+you like learn fashion design?,do you like learning fashion design?
+you like learn graphic design?,do you like learning graphic design?
+you like learn industrial design?,do you like learning industrial design?
+you like learn interior design?,do you like learning interior design?
+you like learn landscape architecture?,do you like learning landscape?
+your teacher who?,who is your teacher?
+your father who?,who is your father?
+your dad who?,who is your dad?
+your mother who?,who is your mother?
+your son who?,who is your son?
+your daughter who?,who is your daughter?
+your brother who?,who is your brother?
+your older brother who?,who is your older brother?
+your younger brother who?,who is your younger brother?
+your sister who?,who is your sister?
+your older sister who?,who is your older sister?
+your younger sister who?,who is your younger sister?
+your sibling who?,who is your sibling?
+your uncle who?,who is your uncle?
+your aunt who?,who is your aunt?
+your cousin who?,who is your cousin?
+your relative who?,who is your relative?
+your nephew who?,who is your nephew?
+your niece who?,who is your niece?
+your grandfather who?,who is your grandfather?
+your grandpa who?,who is your grandpa?
+your granddad who?,who is your granddad?
+your grandmother who?,who is your grandmother?
+your grandma who?,who is your grandma?
+your grandchildren who?,who is your grandchildren?
+your grandson who?,who is your grandson?
+your granddaughter who?,who is your granddaughter?
+your great grandfather who?,who is your great grandfather?
+your great grandmother who?,who is your great grandmother?
+your great grandchildren who?,who is your great grandchildren?
+your stepfather who?,who is your stepfather?
+your stepmother who?,who is your stepmother?
+your stepson who?,who is your stepson?
+your stepdaughter who?,who is your stepdaughter?
+your stepbrother who?,who is your stepbrother?
+your stepsister who?,who is your stepsister?
+you married?,are you married?
+your father married?,is your father married?
+your dad married?,is your dad married?
+your mother married?,is your mother married?
+your son married?,is your son married?
+your daughter married?,is your daughter married?
+your brother married?,is your brother married?
+your older brother married?,is your older brother married?
+your younger brother married?,is your younger brother married?
+your sister married?,is your sister married?
+your older sister married?,is your older sister married?
+your younger sister married?,is your younger sister married?
+your sibling married?,is your sibling married?
+your uncle married?,is your uncle married?
+your aunt married?,is your aunt married?
+your cousin married?,is your cousin married?
+your relative married?,is your relative married?
+your nephew married?,is your nephew married?
+your niece married?,is your niece married?
+your grandfather married?,is your grandfather married?
+your grandpa married?,is your grandpa married?
+your granddad married?,is your granddad married?
+your grandmother married?,is your grandmother married?
+your grandma married?,is your grandma married?
+your grandchildren married?,is your grandchildren married?
+your grandson married?,is your grandson married?
+your granddaughter married?,is your granddaughter married?
+your great grandfather married?,is your great grandfather married?
+your great grandmother married?,is your great grandmother married?
+your great grandchildren married?,is your great grandchildren married?
+your stepfather married?,is your stepfather married?
+your stepmother married?,is your stepmother married?
+your stepson married?,is your stepson married?
+your stepdaughter married?,is your stepdaughter married?
+your stepbrother married?,is your stepbrother married?
+your stepsister married?,is your stepsister married?
+you sister how many?,how many sisters do you have?
+you father how many?,how many fathers do you have?
+you dad how many?,how many dads do you have?
+you mother how many?,how many mothers do you have?
+you son how many?,how many sons do you have?
+you daughter how many?,how many daughters do you have?
+you brother how many?,how many brothers do you have?
+you older brother how many?,how many older brothers do you have?
+you younger brother how many?,how many younger brothers do you have?
+you older sister how many?,how many older sisters do you have?
+you younger sister how many?,how many younger sisters do you have?
+you sibling how many?,how many siblings do you have?
+you uncle how many?,how many uncles do you have?
+you aunt how many?,how many aunts do you have?
+you cousin how many?,how many cousins do you have?
+you relative how many?,how many relatives do you have?
+you nephew how many?,how many nephews do you have?
+you niece how many?,how many nieces do you have?
+you grandfather how many?,how many grandfathers do you have?
+you grandpa how many?,how many grandpas do you have?
+you granddad how many?,how many granddads do you have?
+you grandmother how many?,how many grandmothers do you have?
+you grandma how many?,how many grandmas do you have?
+you grandchildren how many?,how many grandchildrens do you have?
+you grandson how many?,how many grandsons do you have?
+you granddaughter how many?,how many granddaughters do you have?
+you great grandfather how many?,how many great grandfathers do you have?
+you great grandmother how many?,how many great grandmothers do you have?
+you great grandchildren how many?,how many great grandchildrens do you have?
+you stepfather how many?,how many stepfathers do you have?
+you stepmother how many?,how many stepmothers do you have?
+you stepson how many?,how many stepsons do you have?
+you stepdaughter how many?,how many stepdaughters do you have?
+you stepbrother how many?,how many stepbrothers do you have?
+you stepsister how many?,how many stepsisters do you have?
+you children how many?,how many children do you have?
+you work where?,where do you work?
+you live where?,where do you live?
+how sign thanks?,how do you sign thanks?
+you divorced you?,are you divorced?
+your brother single?,is your brother single?
+your sister single?,is your sister single?
+your father single?,is your father single?
+your mother single?,is your mother single?
+your grandfather single?,is your granfather single?
+your grandsister single?,is your grandsister single?
+your son single?,is your sister single?
+your daughter single?,is your sister single?
+your elder single?,is your sister single?
+your younger sister single?,is your sister single?
+your uncle single?,is your sister single?
+your aunt single?,is your sister single?
+your wife single?,is your sister single?
+your husband single?,is your sister single?
+your child single?,is your sister single?
+you meet my brother you?,did you meet my brother?
+you meet my teacher you?,did you meet my teacher?
+you meet my sister you?,did you meet my sister?
+you meet my mother you?,did you meet my mother?
+you meet my grandfather you?,did you meet my grandfather?
+you meet my grandsister you?,did you meet my grandsister?
+you meet my son you?,did you meet my son?
+you meet my daughter you?,did you meet my daughter?
+you meet my elder you?,did you meet my elder?
+you meet my younger you?,did you meet my younger?
+you meet my uncle you?,did you meet my uncle?
+you meet my aunt you?,did you meet my aunt?
+you meet my wife you?,did you meet my wife?
+you meet my husband you?,did you meet my husband?
+you have sister?,do you have a sister?
+you have brother?,do you have a brother?
+you have mother?,do you have a mother?
+you have father?,do you have a father?
+you have grandfather?,do you have a grandfather?
+you have grandmother?,do you have a grandmother?
+you have grandsister?,do you have a grandsister?
+you have son?,do you have a son?
+you have daughter?,do you have a daughter?
+you have elder?,do you have an elder?
+you have younger?,do you have a younger?
+you have uncle?,do you have an uncle?
+you have aunt?,do you have an aunt?
+you have wife?,do you have a wife?
+you have husband?,do you have a husband?
+city you live?,what city do you live in?
+your house big?,is your house big?
+your home big?,is your home big?
+your garden big?,is your garden big?
+your school big?,is your school big?
+you like your work?,do you like your work?
+you think i sign good?,do you think i sign good?
+you think i sign bad?,do you think i sign bad?
+from where you?,where are you from?
+from where you come?,where do you come from?
+you live here?,do you live here?
+deaf family?,is your family deaf?
+your house small?,is your house small?
+your home small?,is your home small?
+your garden small?,is your garden small?
+your school small?,is your school small?
+want more children you?,do you want more children?
+want more son you?,do you want more son?
+you go school you?,do you go to school?
+you go hospital you?,do you go to hospital?
+you go hotel you?,do you go to hotel?
+want more daughter you?,do you want more daughter?
+you need bathroom?,do you need the bathroom?
+you need bedroom?,do you need the bedroom?
+you need living room?,do you need the living room?
+you need kitchen?,do you need the kitchen?
+you need dining room?,do you need the dining room?
+you need study?,do you need the study?
+you need guest room?,do you need the guest room?
+you need playroom?,do you need the playroom?
+you need laundry room?,do you need the laundry room?
+you need garage?,do you need the garage?
+you need attic?,do you need the attic?
+you need basement?,do you need the basement?
+you need pantry?,do you need the pantry?
+you need closet?,do you need the closet?
+you need hallway?,do you need the hallway?
+you need office?,do you need the office?
+you need mudroom?,do you need the mudroom?
+you need sunroom?,do you need the sunroom?
+you need exercise room?,do you need the exercise room?
+you need home theater?,do you need the home theater?
+your favorite color what?,what is your favorite color?
+your favorite food what?,what is your favorite food?
+your favorite subject what?,what is your favorite subject?
+your favorite dresser what?,what is your favorite dresser?
+your favorite sport what?,what is your favorite sport?
+you like color red?,do you like the color red?
+you like color blue?,do you like the color blue?
+you like color green?,do you like the color green?
+you like color yellow?,do you like the color yellow?
+you like color orange?,do you like the color orange?
+you like color purple?,do you like the color purple?
+you like color pink?,do you like the color pink?
+you like color brown?,do you like the color brown?
+you like color gray?,do you like the color gray?
+you like color black?,do you like the color black?
+you like color white?,do you like the color white?
+you like color teal?,do you like the color teal?
+you like color lavender?,do you like the color lavender?
+you like color maroon?,do you like the color maroon?
+you like color turquoise?,do you like the color turquoise?
+you like color gold?,do you like the color gold?
+you like color silver?,do you like the color silver?
+you like color navy?,do you like the color navy?
+you like color olive?,do you like the color olive?
+you like color cyan?,do you like the color cyan?
+you like color magenta?,do you like the color magenta?
+you like color indigo?,do you like the color indigo?
+you like color violet?,do you like the color violet?
+you like color peach?,do you like the color peach?
+you like color salmon?,do you like the color salmon?
+you like color beige?,do you like the color beige?
+you like color khaki?,do you like the color khaki?
+you like color coral?,do you like the color coral?
+you like color tan?,do you like the color tan?
+you like color chartreuse?,do you like the color chartreuse?
+you like color crimson?,do you like the color crimson?
+you like color mint?,do you like the color mint?
+you like color rose?,do you like the color rose?
+you like color auburn?,do you like the color auburn?
+you like color sienna?,do you like the color sienna?
+you like color plum?,do you like the color plum?
+you like color mauve?,do you like the color mauve?
+you like color sepia?,do you like the color sepia?
+you like color copper?,do you like the color copper?
+you like color azure?,do you like the color azure?
+you like color cerulean?,do you like the color cerulean?
+you like color russet?,do you like the color russet?
+you like color sapphire?,do you like the color sapphire?
+you like color emerald?,do you like the color emerald?
+you like color topaz?,do you like the color topaz?
+you like color periwinkle?,do you like the color periwinkle?
+you like color ruby?,do you like the color ruby?
+you like color amethyst?,do you like the color amethyst?
+you like color jade?,do you like the color jade?
+you like color peacock blue?,do you like the color peacock blue?
+you like color moss green?,do you like the color moss green?
+you like color steel blue?,do you like the color steel blue?
+you like color burgundy?,do you like the color burgundy?
+you like color pearl white?,do you like the color pearl white?
+you like color charcoal gray?,do you like the color charcoal gray?
+you like color sky blue?,do you like the color sky blue?
+you like color olive green?,do you like the color olive green?
+you like color tangerine?,do you like the color tangerine?
+you like color cobalt blue?,do you like the color cobalt blue?
+you like color orchid?,do you like the color orchid?
+you like color mahogany?,do you like the color mahogany?
+you like color pear green?,do you like the color pear green?
+you like color cinnamon?,do you like the color cinnamon?
+you like color platinum?,do you like the color platinum?
+you like color cornflower blue?,do you like the color cornflower blue?
+you like color baby pink?,do you like the color baby pink?
+you like color salmon pink?,do you like the color salmon pink?
+you like color sandstone?,do you like the color sandstone?
+you like color rosewood?,do you like the color rosewood?
+you like color champagne?,do you like the color champagne?
+you like color almond?,do you like the color almond?
+you like color marigold?,do you like the color marigold?
+you like color hunter green?,do you like the color hunter green?
+you like color turmeric?,do you like the color turmeric?
+you like color bisque?,do you like the color bisque?
+you like color persimmon?,do you like the color persimmon?
+you like color mulberry?,do you like the color mulberry?
+you like color raspberry?,do you like the color raspberry?
+you like color orchid purple?,do you like the color orchid purple?
+you like color eggplant?,do you like the color eggplant?
+you like color marble?,do you like the color marble?
+you like color charcoal?,do you like the color charcoal?
+you like color steel gray?,do you like the color steel gray?
+you like color sage?,do you like the color sage?
+you like color lemon?,do you like the color lemon?
+you like color caramel?,do you like the color caramel?
+you like color denim?,do you like the color denim?
+you like color navy blue?,do you like the color navy blue?
+you like color coal black?,do you like the color coal black?
+you like color ash gray?,do you like the color ash gray?
+you like color olive brown?,do you like the color olive brown?
+you like color blush?,do you like the color blush?
+you like color teal blue?,do you like the color teal blue?
+you like color aubergine?,do you like the color aubergine?
+you like color cappuccino?,do you like the color cappuccino?
+your chair green?,is your chair green?
+your chair red?,is your chair red?
+your chair blue?,is your chair blue?
+your chair yellow?,is your chair yellow?
+your chair orange?,is your chair orange?
+your chair purple?,is your chair purple?
+your chair pink?,is your chair pink?
+your chair brown?,is your chair brown?
+your chair gray?,is your chair gray?
+your chair black?,is your chair black?
+your chair white?,is your chair white?
+your chair teal?,is your chair teal?
+your chair lavender?,is your chair lavender?
+your chair maroon?,is your chair maroon?
+your chair turquoise?,is your chair turquoise?
+your chair gold?,is your chair gold?
+your chair silver?,is your chair silver?
+your chair navy?,is your chair navy?
+your chair olive?,is your chair olive?
+your chair cyan?,is your chair cyan?
+your chair magenta?,is your chair magenta?
+your chair indigo?,is your chair indigo?
+your chair violet?,is your chair violet?
+your chair peach?,is your chair peach?
+your chair salmon?,is your chair salmon?
+your chair beige?,is your chair beige?
+your chair khaki?,is your chair khaki?
+your chair coral?,is your chair coral?
+your chair tan?,is your chair tan?
+your chair chartreuse?,is your chair chartreuse?
+your chair crimson?,is your chair crimson?
+your chair mint?,is your chair mint?
+your chair rose?,is your chair rose?
+your chair auburn?,is your chair auburn?
+your chair sienna?,is your chair sienna?
+your chair plum?,is your chair plum?
+your chair mauve?,is your chair mauve?
+your chair sepia?,is your chair sepia?
+your chair copper?,is your chair copper?
+your chair azure?,is your chair azure?
+your chair cerulean?,is your chair cerulean?
+your chair russet?,is your chair russet?
+your chair sapphire?,is your chair sapphire?
+your chair emerald?,is your chair emerald?
+your chair topaz?,is your chair topaz?
+your chair periwinkle?,is your chair periwinkle?
+your chair ruby?,is your chair ruby?
+your chair amethyst?,is your chair amethyst?
+your chair jade?,is your chair jade?
+your chair peacock blue?,is your chair peacock blue?
+your chair moss green?,is your chair moss green?
+your chair steel blue?,is your chair steel blue?
+your chair burgundy?,is your chair burgundy?
+your chair pearl white?,is your chair pearl white?
+your chair charcoal gray?,is your chair charcoal gray?
+your chair sky blue?,is your chair sky blue?
+your chair olive green?,is your chair olive green?
+your chair tangerine?,is your chair tangerine?
+your chair cobalt blue?,is your chair cobalt blue?
+your chair orchid?,is your chair orchid?
+your chair mahogany?,is your chair mahogany?
+your chair pear green?,is your chair pear green?
+your chair cinnamon?,is your chair cinnamon?
+your chair platinum?,is your chair platinum?
+your chair cornflower blue?,is your chair cornflower blue?
+your chair baby pink?,is your chair baby pink?
+your chair salmon pink?,is your chair salmon pink?
+your chair sandstone?,is your chair sandstone?
+your chair rosewood?,is your chair rosewood?
+your chair champagne?,is your chair champagne?
+your chair almond?,is your chair almond?
+your chair marigold?,is your chair marigold?
+your chair hunter green?,is your chair hunter green?
+your chair turmeric?,is your chair turmeric?
+your chair bisque?,is your chair bisque?
+your chair persimmon?,is your chair persimmon?
+your chair mulberry?,is your chair mulberry?
+your chair raspberry?,is your chair raspberry?
+your chair orchid purple?,is your chair orchid purple?
+your chair eggplant?,is your chair eggplant?
+your chair marble?,is your chair marble?
+your chair charcoal?,is your chair charcoal?
+your chair steel gray?,is your chair steel gray?
+your chair sage?,is your chair sage?
+your chair lemon?,is your chair lemon?
+your chair caramel?,is your chair caramel?
+your chair denim?,is your chair denim?
+your chair navy blue?,is your chair navy blue?
+your chair coal black?,is your chair coal black?
+your chair ash gray?,is your chair ash gray?
+your chair olive brown?,is your chair olive brown?
+your chair blush?,is your chair blush?
+your chair teal blue?,is your chair teal blue?
+your chair aubergine?,is your chair aubergine?
+your chair cappuccino?,is your chair cappuccino?
+your table red?,is your table red?
+your table blue?,is your table blue?
+your table green?,is your table green?
+your table yellow?,is your table yellow?
+your table orange?,is your table orange?
+your table purple?,is your table purple?
+your table pink?,is your table pink?
+your table brown?,is your table brown?
+your table gray?,is your table gray?
+your table black?,is your table black?
+your table white?,is your table white?
+your table teal?,is your table teal?
+your table lavender?,is your table lavender?
+your table maroon?,is your table maroon?
+your table turquoise?,is your table turquoise?
+your table gold?,is your table gold?
+your table silver?,is your table silver?
+your table navy?,is your table navy?
+your table olive?,is your table olive?
+your table cyan?,is your table cyan?
+your table magenta?,is your table magenta?
+your table indigo?,is your table indigo?
+your table violet?,is your table violet?
+your table peach?,is your table peach?
+your table salmon?,is your table salmon?
+your table beige?,is your table beige?
+your table khaki?,is your table khaki?
+your table coral?,is your table coral?
+your table tan?,is your table tan?
+your table chartreuse?,is your table chartreuse?
+your table crimson?,is your table crimson?
+your table mint?,is your table mint?
+your table rose?,is your table rose?
+your table auburn?,is your table auburn?
+your table sienna?,is your table sienna?
+your table plum?,is your table plum?
+your table mauve?,is your table mauve?
+your table sepia?,is your table sepia?
+your table copper?,is your table copper?
+your table azure?,is your table azure?
+your table cerulean?,is your table cerulean?
+your table russet?,is your table russet?
+your table sapphire?,is your table sapphire?
+your table emerald?,is your table emerald?
+your table topaz?,is your table topaz?
+your table periwinkle?,is your table periwinkle?
+your table ruby?,is your table ruby?
+your table amethyst?,is your table amethyst?
+your table jade?,is your table jade?
+your table peacock blue?,is your table peacock blue?
+your table moss green?,is your table moss green?
+your table steel blue?,is your table steel blue?
+your table burgundy?,is your table burgundy?
+your table pearl white?,is your table pearl white?
+your table charcoal gray?,is your table charcoal gray?
+your table sky blue?,is your table sky blue?
+your table olive green?,is your table olive green?
+your table tangerine?,is your table tangerine?
+your table cobalt blue?,is your table cobalt blue?
+your table orchid?,is your table orchid?
+your table mahogany?,is your table mahogany?
+your table pear green?,is your table pear green?
+your table cinnamon?,is your table cinnamon?
+your table platinum?,is your table platinum?
+your table cornflower blue?,is your table cornflower blue?
+your table baby pink?,is your table baby pink?
+your table salmon pink?,is your table salmon pink?
+your table sandstone?,is your table sandstone?
+your table rosewood?,is your table rosewood?
+your table champagne?,is your table champagne?
+your table almond?,is your table almond?
+your table marigold?,is your table marigold?
+your table hunter green?,is your table hunter green?
+your table turmeric?,is your table turmeric?
+your table bisque?,is your table bisque?
+your table persimmon?,is your table persimmon?
+your table mulberry?,is your table mulberry?
+your table raspberry?,is your table raspberry?
+your table orchid purple?,is your table orchid purple?
+your table eggplant?,is your table eggplant?
+your table marble?,is your table marble?
+your table charcoal?,is your table charcoal?
+your table steel gray?,is your table steel gray?
+your table sage?,is your table sage?
+your table lemon?,is your table lemon?
+your table caramel?,is your table caramel?
+your table denim?,is your table denim?
+your table navy blue?,is your table navy blue?
+your table coal black?,is your table coal black?
+your table ash gray?,is your table ash gray?
+your table olive brown?,is your table olive brown?
+your table blush?,is your table blush?
+your table teal blue?,is your table teal blue?
+your table aubergine?,is your table aubergine?
+your table cappuccino?,is your table cappuccino?
+your home red?,is your home red?
+your home blue?,is your home blue?
+your home green?,is your home green?
+your home yellow?,is your home yellow?
+your home orange?,is your home orange?
+your home purple?,is your home purple?
+your home pink?,is your home pink?
+your home brown?,is your home brown?
+your home gray?,is your home gray?
+your home black?,is your home black?
+your home white?,is your home white?
+your home teal?,is your home teal?
+your home lavender?,is your home lavender?
+your home maroon?,is your home maroon?
+your home turquoise?,is your home turquoise?
+your home gold?,is your home gold?
+your home silver?,is your home silver?
+your home navy?,is your home navy?
+your home olive?,is your home olive?
+your home cyan?,is your home cyan?
+your home magenta?,is your home magenta?
+your home indigo?,is your home indigo?
+your home violet?,is your home violet?
+your home peach?,is your home peach?
+your home salmon?,is your home salmon?
+your home beige?,is your home beige?
+your home khaki?,is your home khaki?
+your home coral?,is your home coral?
+your home tan?,is your home tan?
+your home chartreuse?,is your home chartreuse?
+your home crimson?,is your home crimson?
+your home mint?,is your home mint?
+your home rose?,is your home rose?
+your home auburn?,is your home auburn?
+your home sienna?,is your home sienna?
+your home plum?,is your home plum?
+your home mauve?,is your home mauve?
+your home sepia?,is your home sepia?
+your home copper?,is your home copper?
+your home azure?,is your home azure?
+your home cerulean?,is your home cerulean?
+your home russet?,is your home russet?
+your home sapphire?,is your home sapphire?
+your home emerald?,is your home emerald?
+your home topaz?,is your home topaz?
+your home periwinkle?,is your home periwinkle?
+your home ruby?,is your home ruby?
+your home amethyst?,is your home amethyst?
+your home jade?,is your home jade?
+your home peacock blue?,is your home peacock blue?
+your home moss green?,is your home moss green?
+your home steel blue?,is your home steel blue?
+your home burgundy?,is your home burgundy?
+your home pearl white?,is your home pearl white?
+your home charcoal gray?,is your home charcoal gray?
+your home sky blue?,is your home sky blue?
+your home olive green?,is your home olive green?
+your home tangerine?,is your home tangerine?
+your home cobalt blue?,is your home cobalt blue?
+your home orchid?,is your home orchid?
+your home mahogany?,is your home mahogany?
+your home pear green?,is your home pear green?
+your home cinnamon?,is your home cinnamon?
+your home platinum?,is your home platinum?
+your home cornflower blue?,is your home cornflower blue?
+your home baby pink?,is your home baby pink?
+your home salmon pink?,is your home salmon pink?
+your home sandstone?,is your home sandstone?
+your home rosewood?,is your home rosewood?
+your home champagne?,is your home champagne?
+your home almond?,is your home almond?
+your home marigold?,is your home marigold?
+your home hunter green?,is your home hunter green?
+your home turmeric?,is your home turmeric?
+your home bisque?,is your home bisque?
+your home persimmon?,is your home persimmon?
+your home mulberry?,is your home mulberry?
+your home raspberry?,is your home raspberry?
+your home orchid purple?,is your home orchid purple?
+your home eggplant?,is your home eggplant?
+your home marble?,is your home marble?
+your home charcoal?,is your home charcoal?
+your home steel gray?,is your home steel gray?
+your home sage?,is your home sage?
+your home lemon?,is your home lemon?
+your home caramel?,is your home caramel?
+your home denim?,is your home denim?
+your home navy blue?,is your home navy blue?
+your home coal black?,is your home coal black?
+your home ash gray?,is your home ash gray?
+your home olive brown?,is your home olive brown?
+your home blush?,is your home blush?
+your home teal blue?,is your home teal blue?
+your home aubergine?,is your home aubergine?
+your home cappuccino?,is your home cappuccino?
+how old you?,how old are you?
+how old your father?,how old is your father?
+how old your dad?,how old is your dad?
+how old your mother?,how old is your mother?
+how old your son?,how old is your son?
+how old your daughter?,how old is your daughter?
+how old your brother?,how old is your brother?
+how old your older brother?,how old is your older brother?
+how old your younger brother?,how old is your younger brother?
+how old your sister?,how old is your sister?
+how old your older sister?,how old is your older sister?
+how old your younger sister?,how old is your younger sister?
+how old your sibling?,how old is your sibling?
+how old your uncle?,how old is your uncle?
+how old your aunt?,how old is your aunt?
+how old your cousin?,how old is your cousin?
+how old your relative?,how old is your relative?
+how old your nephew?,how old is your nephew?
+how old your niece?,how old is your niece?
+how old your Grandfather?,how old is your Grandfather?
+how old your grandpa?,how old is your grandpa?
+how old your granddad?,how old is your granddad?
+how old your Grandmother?,how old is your Grandmother?
+how old your grandma?,how old is your grandma?
+how old your Grand children?,how old is your Grand children?
+how old your Grandson?,how old is your Grandson?
+how old your Granddaughter?,how old is your Granddaughter?
+how old your great grandfather?,how old is your great grandfather?
+how old your great grandmother?,how old is your great grandmother?
+how old your great grandchildren?,how old is your great grandchildren?
+how old your stepfather?,how old is your stepfather?
+how old your stepmother?,how old is your stepmother?
+how old your stepson?,how old is your stepson?
+how old your stepdaughter?,how old is your stepdaughter?
+how old your stepbrother?,how old is your stepbrother?
+how old your stepsister?,how old is your stepsister?
+you want go home now?,do you want to go home now?
+you want go school now?,do you want to go to school now?
+you want go hospital now?,do you want to go to hospital now?
+you want go hotel now?,do you want to go to hotel now?
+your paper what color?,what color is your paper?
+your car what color?,what color is your car?
+your motorcycle what color?,what color is your motorcycle?
+your table what color?,what color is your table?
+your smartphone what color?,what color is your smartphone?
+your notebook what color?,what color is your notebook?
+your chair what color?,what color is your chair?
+your roof what color?,what color is your roof?
+your shirt what color?,what color is your shirt?
+your trousers what color?,what color is your trousers?
+your athletic wear what color?,what color is your athletic wear?
+your blazer what color?,what color is your blazer?
+your blouse what color?,what color is your blouse?
+your cardigan what color?,what color is your cardigan?
+your coat what color?,what color is your coat?
+your dress what color?,what color is your dress?
+your formal wear what color?,what color is your formal wear?
+your hoodie what color?,what color is your hoodie?
+your jacket what color?,what color is your jacket?
+your jeans what color?,what color is your jeans?
+your joggers what color?,what color is your joggers?
+your jumpsuit what color?,what color is your jumpsuit?
+your khakis what color?,what color is your khakis?
+your kimono what color?,what color is your kimono?
+your leggings what color?,what color is your leggings?
+your long-sleeve shirt what color?,what color is your long-sleeve shirt?
+your pajamas what color?,what color is your pajamas?
+your peacoat what color?,what color is your peacoat?
+your poncho what color?,what color is your poncho?
+your robe what color?,what color is your robe?
+your romper what color?,what color is your romper?
+your scarf what color?,what color is your scarf?
+your shorts what color?,what color is your shorts?
+your skirt what color?,what color is your skirt?
+your slacks what color?,what color is your slacks?
+your slippers what color?,what color is your slippers?
+your socks what color?,what color is your socks?
+your sports bra what color?,what color is your sports bra?
+your suit what color?,what color is your suit?
+your sweater what color?,what color is your sweater?
+your sweatpants what color?,what color is your sweatpants?
+your sweatshirt what color?,what color is your sweatshirt?
+your swimsuit what color?,what color is your swimsuit?
+your t-shirt what color?,what color is your t-shirt?
+your tank top what color?,what color is your tank top?
+your trench coat what color?,what color is your trench coat?
+your turtleneck what color?,what color is your turtleneck?
+your underwear what color?,what color is your underwear?
+your vest what color?,what color is your vest?
+your windbreaker what color?,what color is your windbreaker?
+your capri pants what color?,what color is your capri pants?
+your cargo pants what color?,what color is your cargo pants?
+your flannel shirt what color?,what color is your flannel shirt?
+your halter top what color?,what color is your halter top?
+your overall what color?,what color is your overall?
+your palazzo pants what color?,what color is your palazzo pants?
+your polo shirt what color?,what color is your polo shirt?
+your tunic what color?,what color is your tunic?
+your tuxedo what color?,what color is your tuxedo?
+your sofa what color?,what color is your sofa?
+you like red motorcycle?,do you like red motorcycle?
+you like red athletic wear?,do you like red athletic wear?
+you like red blazer?,do you like red blazer?
+you like red blouse?,do you like red blouse?
+you like red cardigan?,do you like red cardigan?
+you like red coat?,do you like red coat?
+you like red dress?,do you like red dress?
+you like red formal wear?,do you like red formal wear?
+you like red hoodie?,do you like red hoodie?
+you like red jacket?,do you like red jacket?
+you like red jeans?,do you like red jeans?
+you like red joggers?,do you like red joggers?
+you like red jumpsuit?,do you like red jumpsuit?
+you like red khakis?,do you like red khakis?
+you like red kimono?,do you like red kimono?
+you like red leggings?,do you like red leggings?
+you like red long-sleeve shirt?,do you like red long-sleeve shirt?
+you like red pajamas?,do you like red pajamas?
+you like red peacoat?,do you like red peacoat?
+you like red poncho?,do you like red poncho?
+you like red robe?,do you like red robe?
+you like red romper?,do you like red romper?
+you like red scarf?,do you like red scarf?
+you like red shorts?,do you like red shorts?
+you like red skirt?,do you like red skirt?
+you like red slacks?,do you like red slacks?
+you like red slippers?,do you like red slippers?
+you like red socks?,do you like red socks?
+you like red sports bra?,do you like red sports bra?
+you like red suit?,do you like red suit?
+you like red sweater?,do you like red sweater?
+you like red sweatpants?,do you like red sweatpants?
+you like red sweatshirt?,do you like red sweatshirt?
+you like red swimsuit?,do you like red swimsuit?
+you like red t-shirt?,do you like red t-shirt?
+you like red tank top?,do you like red tank top?
+you like red trench coat?,do you like red trench coat?
+you like red turtleneck?,do you like red turtleneck?
+you like red underwear?,do you like red underwear?
+you like red vest?,do you like red vest?
+you like red windbreaker?,do you like red windbreaker?
+you like red capri pants?,do you like red capri pants?
+you like red cargo pants?,do you like red cargo pants?
+you like red flannel shirt?,do you like red flannel shirt?
+you like red halter top?,do you like red halter top?
+you like red overall?,do you like red overall?
+you like red palazzo pants?,do you like red palazzo pants?
+you like red polo shirt?,do you like red polo shirt?
+you like red tunic?,do you like red tunic?
+you like red tuxedo?,do you like red tuxedo?
+you like green car?,do you like green cars?
+you like green athletic wear?,do you like green athletic wear?
+you like green blazer?,do you like green blazer?
+you like green blouse?,do you like green blouse?
+you like green cardigan?,do you like green cardigan?
+you like green coat?,do you like green coat?
+you like green dress?,do you like green dress?
+you like green formal wear?,do you like green formal wear?
+you like green hoodie?,do you like green hoodie?
+you like green jacket?,do you like green jacket?
+you like green jeans?,do you like green jeans?
+you like green joggers?,do you like green joggers?
+you like green jumpsuit?,do you like green jumpsuit?
+you like green khakis?,do you like green khakis?
+you like green kimono?,do you like green kimono?
+you like green leggings?,do you like green leggings?
+you like green long-sleeve shirt?,do you like green long-sleeve shirt?
+you like green pajamas?,do you like green pajamas?
+you like green peacoat?,do you like green peacoat?
+you like green poncho?,do you like green poncho?
+you like green robe?,do you like green robe?
+you like green romper?,do you like green romper?
+you like green scarf?,do you like green scarf?
+you like green shorts?,do you like green shorts?
+you like green skirt?,do you like green skirt?
+you like green slacks?,do you like green slacks?
+you like green slippers?,do you like green slippers?
+you like green socks?,do you like green socks?
+you like green sports bra?,do you like green sports bra?
+you like green suit?,do you like green suit?
+you like green sweater?,do you like green sweater?
+you like green sweatpants?,do you like green sweatpants?
+you like green sweatshirt?,do you like green sweatshirt?
+you like green swimsuit?,do you like green swimsuit?
+you like green t-shirt?,do you like green t-shirt?
+you like green tank top?,do you like green tank top?
+you like green trench coat?,do you like green trench coat?
+you like green turtleneck?,do you like green turtleneck?
+you like green underwear?,do you like green underwear?
+you like green vest?,do you like green vest?
+you like green windbreaker?,do you like green windbreaker?
+you like green capri pants?,do you like green capri pants?
+you like green cargo pants?,do you like green cargo pants?
+you like green flannel shirt?,do you like green flannel shirt?
+you like green halter top?,do you like green halter top?
+you like green overall?,do you like green overall?
+you like green palazzo pants?,do you like green palazzo pants?
+you like green polo shirt?,do you like green polo shirt?
+you like green tunic?,do you like green tunic?
+you like green tuxedo?,do you like green tuxedo?
+you like blue athletic wear?,do you like blue athletic wear?
+you like blue blazer?,do you like blue blazer?
+you like blue blouse?,do you like blue blouse?
+you like blue cardigan?,do you like blue cardigan?
+you like blue coat?,do you like blue coat?
+you like blue dress?,do you like blue dress?
+you like blue formal wear?,do you like blue formal wear?
+you like blue hoodie?,do you like blue hoodie?
+you like blue jacket?,do you like blue jacket?
+you like blue jeans?,do you like blue jeans?
+you like blue joggers?,do you like blue joggers?
+you like blue jumpsuit?,do you like blue jumpsuit?
+you like blue khakis?,do you like blue khakis?
+you like blue kimono?,do you like blue kimono?
+you like blue leggings?,do you like blue leggings?
+you like blue long-sleeve shirt?,do you like blue long-sleeve shirt?
+you like blue pajamas?,do you like blue pajamas?
+you like blue peacoat?,do you like blue peacoat?
+you like blue poncho?,do you like blue poncho?
+you like blue robe?,do you like blue robe?
+you like blue romper?,do you like blue romper?
+you like blue scarf?,do you like blue scarf?
+you like blue shorts?,do you like blue shorts?
+you like blue skirt?,do you like blue skirt?
+you like blue slacks?,do you like blue slacks?
+you like blue slippers?,do you like blue slippers?
+you like blue socks?,do you like blue socks?
+you like blue sports bra?,do you like blue sports bra?
+you like blue suit?,do you like blue suit?
+you like blue sweater?,do you like blue sweater?
+you like blue sweatpants?,do you like blue sweatpants?
+you like blue sweatshirt?,do you like blue sweatshirt?
+you like blue swimsuit?,do you like blue swimsuit?
+you like blue t-shirt?,do you like blue t-shirt?
+you like blue tank top?,do you like blue tank top?
+you like blue trench coat?,do you like blue trench coat?
+you like blue turtleneck?,do you like blue turtleneck?
+you like blue underwear?,do you like blue underwear?
+you like blue vest?,do you like blue vest?
+you like blue windbreaker?,do you like blue windbreaker?
+you like blue capri pants?,do you like blue capri pants?
+you like blue cargo pants?,do you like blue cargo pants?
+you like blue flannel shirt?,do you like blue flannel shirt?
+you like blue halter top?,do you like blue halter top?
+you like blue overall?,do you like blue overall?
+you like blue palazzo pants?,do you like blue palazzo pants?
+you like blue polo shirt?,do you like blue polo shirt?
+you like blue tunic?,do you like blue tunic?
+you like blue tuxedo?,do you like blue tuxedo?
+pizza you like eat?,do you like to eat pizzas?
+pasta you like eat?,do you like to eat pastas?
+burger you like eat?,do you like to eat burgers?
+sushi you like eat?,do you like to eat sushis?
+curry you like eat?,do you like to eat currys?
+steak you like eat?,do you like to eat steaks?
+fried chicken you like eat?,do you like to eat fried chickens?
+tacos you like eat?,do you like to eat tacoss?
+ramen you like eat?,do you like to eat ramens?
+sandwich you like eat?,do you like to eat sandwichs?
+salad you like eat?,do you like to eat salads?
+soup you like eat?,do you like to eat soups?
+shrimp scampi you like eat?,do you like to eat shrimp scampis?
+chicken parmigiana you like eat?,do you like to eat chicken parmigianas?
+lasagna you like eat?,do you like to eat lasagnas?
+gyro you like eat?,do you like to eat gyros?
+quesadilla you like eat?,do you like to eat quesadillas?
+potato soup you like eat?,do you like to eat potato soups?
+spring rolls you like eat?,do you like to eat spring rollss?
+pad thai you like eat?,do you like to eat pad thais?
+hamburger you like eat?,do you like to eat hamburgers?
+hot dog you like eat?,do you like to eat hot dogs?
+chicken nuggets you like eat?,do you like to eat chicken nuggetss?
+spaghetti you like eat?,do you like to eat spaghettis?
+risotto you like eat?,do you like to eat risottos?
+chicken curry you like eat?,do you like to eat chicken currys?
+fried rice you like eat?,do you like to eat fried rices?
+grilled cheese you like eat?,do you like to eat grilled cheeses?
+sashimi you like eat?,do you like to eat sashimis?
+nachos you like eat?,do you like to eat nachoss?
+apple you like eat?,do you like to eat apple?
+banana you like eat?,do you like to eat banana?
+orange you like eat?,do you like to eat orange?
+candy you like what kind?,what kind of candy do you like?
+movie you like what kind?,what kind of movies do you like?
+food you like what kind?,what kind of foods do you like?
+cereal you like what kind?,what kind of cereal do you like?
+soup you like what kind?,what kind of soup do you like?
+you like cookies with milk?,do you like cookies and milk?
+you like bananas with milk?,do you like bananas and milk?
+your favorite beverage what?,what is your favorite beverage?
+your favorite dessert what?,what is your favorite dessert?
+hungry you?,are you hungry?
+good you?,are you good?
+your sister like egg?,does your sister like eggs?
+your brother like egg?,does your brother like eggs?
+your father like egg?,does your father like eggs?
+your mother like egg?,does your mother like eggs?
+your granfather like egg?,does your granfather like eggs?
+your granmother like egg?,does your granmother like eggs?
+backpack you have?,do you have a backpack?
+your belt what color?,what color is your belt?
+you change clothes when?,when do you change clothes?
+who this room have glasses?,who in this room has glasses?
+your shirt what color?,what color is your shirt?
+shoes you have how many?,how many shoes do you have?
+your socks what color?,what color are your socks?
+your backpack have zipper?,does your backpack have a zipper?
+your couch whatcolor?,what color is your couch?
+that table what color?,what color is that table?
+cat like eat bird?,do cats like to eat birds?
+book you like read what kind?,what mind of books do you like to read?
+fish like eat bug?,do fish like to eat bugs?
+some cat like water?,do some cats like water?
+horse you want?,do you want a horse?
+you look like your dad?,do you look like your father?
+you go class what-time?,what time to you go to class?
+bird like eat fish?,do birds like to eat fish?
+horse like eat fish?,do horses like to eat fish?
+your bedroom upstairs?,is your bedroom upstairs?
+you like monday?,do you like mondays?
+you like tuesday?,do you like tuesday?
+you like wednesday?,do you like wednesday?
+you like thursday?,do you like thursday?
+you like friday?,do you like friday?
+you like saturday?,do you like saturday?
+you like sunday?,do you like sunday?
+learn new thing you like?,do you like to learn new things?
+afternoon work you?,do you work in the afternoon?
+your dad go college?,did your dad go to college?
+your mom go college?,did your mom go to college?
+your sister go college?,did your sister go to college?
+your brother go college?,did your brother go to college?
+your son go college?,did your son go to college?
+your aunt go college?,did your aunt go to college?
+your uncle go college?,did your uncle go to college?
+your nephew go college?,did your nephew go to college?
+your grandmother go college?,did your grandmother go to college?
+your grandson go college?,did your grandson go to college?
+your granddaughter go college?,did your granddaughter go to college?
+want become interpreter you?,do you want to be an interpreter?
+high school you graduate when?,when did you graduate high school?
+you think this class hard?,do you think this class is hard?
+true false test you like?,do you like true false tests?
+research paper you like write?,do you like to write research papers?
+interpreter list you have?,do you have a list of interpreters?
+college you graduate when?,when do you graduate from college?
+you think this class easy?,do you think this class is easy?
+cold weather you like?,do you like cold weather?
+sleep you like?,do you like to sleep?
+yesterday you wake up what time?,what time did you wake up yesterday?
+hot weather you like?,do you like hot weather?
+you use deodorant you?,do you use deodorant?
+your favorite time year what?,what is your favorite time of year?
+feel sick you?,do you feel sick?
+your refrigerator full?,is your refrigerator full?
+cold pizza you like?,do you like cold pizza?
+your major what?,what is your major?
+your teacher have aide?,does your teacher have an aide?
+you use babysitter?,do you use a babysitter?
+your boss name?,what is your boss's name?
+you like cook?,do you like to cook?
+your neighbor name what?,what is your neighbor's name?
+picture your family you have?,do you have a picture of your family?
+your first car what color?,what was the color of your first car?
+your family last child who?,who was the last child in your family?
+today your last class what?,what is your last class today?
+late class always you?,are you always late to class?
+your next class what?,what class do you have next?
+library how often you go?,how often do you go to the library?
+you graduate soon you?,will you be graduating soon?
+you recently what do?,what did you do recently?
+you like banana?,do you like bananas?
+bicycle have you?,do you have a bike?
+you use alabaster you?,are you on alabaster?
+you use amber you?,are you on amber?
+you use amethyst you?,are you on amethyst?
+you use apricot you?,are you on apricot?
+you use aquamarine you?,are you on aquamarine?
+you use azure you?,are you on azure?
+you use beige you?,are you on beige?
+you use bisque you?,are you on bisque?
+you use black you?,are you on black?
+you use blue you?,are you on blue?
+you use blush you?,are you on blush?
+you use bronze you?,are you on bronze?
+you use brown you?,are you on brown?
+you use burgundy you?,are you on burgundy?
+you use cerulean you?,are you on cerulean?
+you use champagne you?,are you on champagne?
+you use charcoal you?,are you on charcoal?
+you use chartreuse you?,are you on chartreuse?
+you use chocolate you?,are you on chocolate?
+you use cobalt you?,are you on cobalt?
+you use coral you?,are you on coral?
+you use cornflower you?,are you on cornflower?
+you use cream you?,are you on cream?
+you use crimson you?,are you on crimson?
+you use cyan you?,are you on cyan?
+you use emerald you?,are you on emerald?
+you use fuchsia you?,are you on fuchsia?
+you use gold you?,are you on gold?
+you use gray you?,are you on gray?
+you use green you?,are you on green?
+you use indigo you?,are you on indigo?
+you use ivory you?,are you on ivory?
+you use jade you?,are you on jade?
+you use khaki you?,are you on khaki?
+you use lavender you?,are you on lavender?
+you use lemon you?,are you on lemon?
+you use lilac you?,are you on lilac?
+you use lime you?,are you on lime?
+you use magenta you?,are you on magenta?
+you use mahogany you?,are you on mahogany?
+you use maroon you?,are you on maroon?
+you use mauve you?,are you on mauve?
+you use mint you?,are you on mint?
+you use mocha you?,are you on mocha?
+you use navy you?,are you on navy?
+you use ochre you?,are you on ochre?
+you use olive you?,are you on olive?
+you use orange you?,are you on orange?
+you use peach you?,are you on peach?
+you use pearl you?,are you on pearl?
+you use periwinkle you?,are you on periwinkle?
+you use pink you?,are you on pink?
+you use plum you?,are you on plum?
+you use puce you?,are you on puce?
+you use purple you?,are you on purple?
+you use raspberry you?,are you on raspberry?
+you use red you?,are you on red?
+you use rose you?,are you on rose?
+you use ruby you?,are you on ruby?
+you use saffron you?,are you on saffron?
+you use salmon you?,are you on salmon?
+you use sapphire you?,are you on sapphire?
+you use scarlet you?,are you on scarlet?
+you use sienna you?,are you on sienna?
+you use silver you?,are you on silver?
+you use slate you?,are you on slate?
+you use taupe you?,are you on taupe?
+you use teal you?,are you on teal?
+you use turquoise you?,are you on turquoise?
+you use ultramarine you?,are you on ultramarine?
+you use umber you?,are you on umber?
+you use vanilla you?,are you on vanilla?
+you use vermilion you?,are you on vermilion?
+you use violet you?,are you on violet?
+you use viridian you?,are you on viridian?
+you use white you?,are you on white?
+you use yellow you?,are you on yellow?
+you use zaffre you?,are you on zaffre?
+your favorite color alabaster?,do you like color alabaster?
+your favorite color amber?,do you like color amber?
+your favorite color amethyst?,do you like color amethyst?
+your favorite color apricot?,do you like color apricot?
+your favorite color aquamarine?,do you like color aquamarine?
+your favorite color azure?,do you like color azure?
+your favorite color beige?,do you like color beige?
+your favorite color bisque?,do you like color bisque?
+your favorite color black?,do you like color black?
+your favorite color blue?,do you like color blue?
+your favorite color blush?,do you like color blush?
+your favorite color bronze?,do you like color bronze?
+your favorite color brown?,do you like color brown?
+your favorite color burgundy?,do you like color burgundy?
+your favorite color cerulean?,do you like color cerulean?
+your favorite color champagne?,do you like color champagne?
+your favorite color charcoal?,do you like color charcoal?
+your favorite color chartreuse?,do you like color chartreuse?
+your favorite color chocolate?,do you like color chocolate?
+your favorite color cobalt?,do you like color cobalt?
+your favorite color coral?,do you like color coral?
+your favorite color cornflower?,do you like color cornflower?
+your favorite color cream?,do you like color cream?
+your favorite color crimson?,do you like color crimson?
+your favorite color cyan?,do you like color cyan?
+your favorite color emerald?,do you like color emerald?
+your favorite color fuchsia?,do you like color fuchsia?
+your favorite color gold?,do you like color gold?
+your favorite color gray?,do you like color gray?
+your favorite color green?,do you like color green?
+your favorite color indigo?,do you like color indigo?
+your favorite color ivory?,do you like color ivory?
+your favorite color jade?,do you like color jade?
+your favorite color khaki?,do you like color khaki?
+your favorite color lavender?,do you like color lavender?
+your favorite color lemon?,do you like color lemon?
+your favorite color lilac?,do you like color lilac?
+your favorite color lime?,do you like color lime?
+your favorite color magenta?,do you like color magenta?
+your favorite color mahogany?,do you like color mahogany?
+your favorite color maroon?,do you like color maroon?
+your favorite color mauve?,do you like color mauve?
+your favorite color mint?,do you like color mint?
+your favorite color mocha?,do you like color mocha?
+your favorite color navy?,do you like color navy?
+your favorite color ochre?,do you like color ochre?
+your favorite color olive?,do you like color olive?
+your favorite color orange?,do you like color orange?
+your favorite color peach?,do you like color peach?
+your favorite color pearl?,do you like color pearl?
+your favorite color periwinkle?,do you like color periwinkle?
+your favorite color pink?,do you like color pink?
+your favorite color plum?,do you like color plum?
+your favorite color puce?,do you like color puce?
+your favorite color purple?,do you like color purple?
+your favorite color raspberry?,do you like color raspberry?
+your favorite color red?,do you like color red?
+good friend she,she is a good friend.
+good friend he,he is a good friend.
+you sick you?,are you sick?
+your father sick you?,is your father sick?
+your dog sick you?,is your dog sick?
+your cat sick you?,is your cat sick?
+your dad sick you?,is your dad sick?
+your mother sick you?,is your mother sick?
+your son sick you?,is your son sick?
+your daughter sick you?,is your daughter sick?
+your brother sick you?,is your brother sick?
+your older brother sick you?,is your older brother sick?
+your younger brother sick you?,is your younger brother sick?
+your sister sick you?,is your sister sick?
+your older sister sick you?,is your older sister sick?
+your younger sister sick you?,is your younger sister sick?
+your sibling sick you?,is your sibling sick?
+your uncle sick you?,is your uncle sick?
+your aunt sick you?,is your aunt sick?
+your cousin sick you?,is your cousin sick?
+your relative sick you?,is your relative sick?
+your nephew sick you?,is your nephew sick?
+your niece sick you?,is your niece sick?
+your grandfather sick you?,is your grandfather sick?
+your grandpa sick you?,is your grandpa sick?
+your granddad sick you?,is your granddad sick?
+your grandmother sick you?,is your grandmother sick?
+your grandma sick you?,is your grandma sick?
+your grand children sick you?,is your grand children sick?
+your grandson sick you?,is your grandson sick?
+your granddaughter sick you?,is your granddaughter sick?
+your great grandfather sick you?,is your great grandfather sick?
+your great grandmother sick you?,is your great grandmother sick?
+your great grandchildren sick you?,is your great grandchildren sick?
+your stepfather sick you?,is your stepfather sick?
+your stepmother sick you?,is your stepmother sick?
+your stepson sick you?,is your stepson sick?
+your stepdaughter sick you?,is your stepdaughter sick?
+your stepbrother sick you?,is your stepbrother sick?
+your stepsister sick you?,is your stepsister sick?
+yesterday store mary go,mary went to the store yesterday.
+yesterday store father go,your father went to the store yesterday.
+yesterday store dad go,your dad went to the store yesterday.
+yesterday store mother go,your mother went to the store yesterday.
+yesterday store son go,your son went to the store yesterday.
+yesterday store daughter go,your daughter went to the store yesterday.
+yesterday store brother go,your brother went to the store yesterday.
+yesterday store older brother go,your older brother went to the store yesterday.
+yesterday store younger brother go,your younger brother went to the store yesterday.
+yesterday store sister go,your sister went to the store yesterday.
+yesterday store older sister go,your older sister went to the store yesterday.
+yesterday store younger sister go,your younger sister went to the store yesterday.
+yesterday store sibling go,your sibling went to the store yesterday.
+yesterday store uncle go,your uncle went to the store yesterday.
+yesterday store aunt go,your aunt went to the store yesterday.
+yesterday store cousin go,your cousin went to the store yesterday.
+yesterday store relative go,your relative went to the store yesterday.
+yesterday store nephew go,your nephew went to the store yesterday.
+yesterday store niece go,your niece went to the store yesterday.
+yesterday store grandfather go,your grandfather went to the store yesterday.
+yesterday store grandpa go,your grandpa went to the store yesterday.
+yesterday store granddad go,your granddad went to the store yesterday.
+yesterday store grandmother go,your grandmother went to the store yesterday.
+yesterday store grandma go,your grandma went to the store yesterday.
+yesterday store grand children go,your grand children went to the store yesterday.
+yesterday store grandson go,your grandson went to the store yesterday.
+yesterday store granddaughter go,your granddaughter went to the store yesterday.
+yesterday store great grandfather go,your great grandfather went to the store yesterday.
+yesterday store great grandmother go,your great grandmother went to the store yesterday.
+yesterday store great grandchildren go,your great grandchildren went to the store yesterday.
+yesterday store stepfather go,your stepfather went to the store yesterday.
+yesterday store stepmother go,your stepmother went to the store yesterday.
+yesterday store stepson go,your stepson went to the store yesterday.
+yesterday store stepdaughter go,your stepdaughter went to the store yesterday.
+yesterday store stepbrother go,your stepbrother went to the store yesterday.
+yesterday store stepsister go,your stepsister went to the store yesterday.
+yesterday office father go,your father went to the office yesterday.
+yesterday office dad go,your dad went to the office yesterday.
+yesterday office mother go,your mother went to the office yesterday.
+yesterday office son go,your son went to the office yesterday.
+yesterday office daughter go,your daughter went to the office yesterday.
+yesterday office brother go,your brother went to the office yesterday.
+yesterday office older brother go,your older brother went to the office yesterday.
+yesterday office younger brother go,your younger brother went to the office yesterday.
+yesterday office sister go,your sister went to the office yesterday.
+yesterday office older sister go,your older sister went to the office yesterday.
+yesterday office younger sister go,your younger sister went to the office yesterday.
+yesterday office sibling go,your sibling went to the office yesterday.
+yesterday office uncle go,your uncle went to the office yesterday.
+yesterday office aunt go,your aunt went to the office yesterday.
+yesterday office cousin go,your cousin went to the office yesterday.
+yesterday office relative go,your relative went to the office yesterday.
+yesterday office nephew go,your nephew went to the office yesterday.
+yesterday office niece go,your niece went to the office yesterday.
+yesterday office grandfather go,your grandfather went to the office yesterday.
+yesterday office grandpa go,your grandpa went to the office yesterday.
+yesterday office granddad go,your granddad went to the office yesterday.
+yesterday office grandmother go,your grandmother went to the office yesterday.
+yesterday office grandma go,your grandma went to the office yesterday.
+yesterday office grand children go,your grand children went to the office yesterday.
+yesterday office grandson go,your grandson went to the office yesterday.
+yesterday office granddaughter go,your granddaughter went to the office yesterday.
+yesterday office great grandfather go,your great grandfather went to the office yesterday.
+yesterday office great grandmother go,your great grandmother went to the office yesterday.
+yesterday office great grandchildren go,your great grandchildren went to the office yesterday.
+yesterday office stepfather go,your stepfather went to the office yesterday.
+yesterday office stepmother go,your stepmother went to the office yesterday.
+yesterday office stepson go,your stepson went to the office yesterday.
+yesterday office stepdaughter go,your stepdaughter went to the office yesterday.
+yesterday office stepbrother go,your stepbrother went to the office yesterday.
+yesterday office stepsister go,your stepsister went to the office yesterday.
+tomorrow office father go,your father will go to the office tomorrow.
+tomorrow office dad go,your dad will go to the office tomorrow.
+tomorrow office mother go,your mother will go to the office tomorrow.
+tomorrow office son go,your son will go to the office tomorrow.
+tomorrow office daughter go,your daughter will go to the office tomorrow.
+tomorrow office brother go,your brother will go to the office tomorrow.
+tomorrow office older brother go,your older brother will go to the office tomorrow.
+tomorrow office younger brother go,your younger brother will go to the office tomorrow.
+tomorrow office sister go,your sister will go to the office tomorrow.
+tomorrow office older sister go,your older sister will go to the office tomorrow.
+tomorrow office younger sister go,your younger sister will go to the office tomorrow.
+tomorrow office sibling go,your sibling will go to the office tomorrow.
+tomorrow office uncle go,your uncle will go to the office tomorrow.
+tomorrow office aunt go,your aunt will go to the office tomorrow.
+tomorrow office cousin go,your cousin will go to the office tomorrow.
+tomorrow office relative go,your relative will go to the office tomorrow.
+tomorrow office nephew go,your nephew will go to the office tomorrow.
+tomorrow office niece go,your niece will go to the office tomorrow.
+tomorrow office grandfather go,your grandfather will go to the office tomorrow.
+tomorrow office grandpa go,your grandpa will go to the office tomorrow.
+tomorrow office granddad go,your granddad will go to the office tomorrow.
+tomorrow office grandmother go,your grandmother will go to the office tomorrow.
+tomorrow office grandma go,your grandma will go to the office tomorrow.
+tomorrow office grand children go,your grand children will go to the office tomorrow.
+tomorrow office grandson go,your grandson will go to the office tomorrow.
+tomorrow office granddaughter go,your granddaughter will go to the office tomorrow.
+tomorrow office great grandfather go,your great grandfather will go to the office tomorrow.
+tomorrow office great grandmother go,your great grandmother will go to the office tomorrow.
+tomorrow office great grandchildren go,your great grandchildren will go to the office tomorrow.
+tomorrow office stepfather go,your stepfather will go to the office tomorrow.
+tomorrow office stepmother go,your stepmother will go to the office tomorrow.
+tomorrow office stepson go,your stepson will go to the office tomorrow.
+tomorrow office stepdaughter go,your stepdaughter will go to the office tomorrow.
+tomorrow office stepbrother go,your stepbrother will go to the office tomorrow.
+tomorrow office stepsister go,your stepsister will go to the office tomorrow.
+tomorrow police station father go,your father will go to the police station tomorrow.
+tomorrow police station dad go,your dad will go to the police station tomorrow.
+tomorrow police station mother go,your mother will go to the police station tomorrow.
+tomorrow police station son go,your son will go to the police station tomorrow.
+tomorrow police station daughter go,your daughter will go to the police station tomorrow.
+tomorrow police station brother go,your brother will go to the police station tomorrow.
+tomorrow police station older brother go,your older brother will go to the police station tomorrow.
+tomorrow police station younger brother go,your younger brother will go to the police station tomorrow.
+tomorrow police station sister go,your sister will go to the police station tomorrow.
+tomorrow police station older sister go,your older sister will go to the police station tomorrow.
+tomorrow police station younger sister go,your younger sister will go to the police station tomorrow.
+tomorrow police station sibling go,your sibling will go to the police station tomorrow.
+tomorrow police station uncle go,your uncle will go to the police station tomorrow.
+tomorrow police station aunt go,your aunt will go to the police station tomorrow.
+tomorrow police station cousin go,your cousin will go to the police station tomorrow.
+tomorrow police station relative go,your relative will go to the police station tomorrow.
+tomorrow police station nephew go,your nephew will go to the police station tomorrow.
+tomorrow police station niece go,your niece will go to the police station tomorrow.
+tomorrow police station grandfather go,your grandfather will go to the police station tomorrow.
+tomorrow police station grandpa go,your grandpa will go to the police station tomorrow.
+tomorrow police station granddad go,your granddad will go to the police station tomorrow.
+tomorrow police station grandmother go,your grandmother will go to the police station tomorrow.
+tomorrow police station grandma go,your grandma will go to the police station tomorrow.
+tomorrow police station grand children go,your grand children will go to the police station tomorrow.
+tomorrow police station grandson go,your grandson will go to the police station tomorrow.
+tomorrow police station granddaughter go,your granddaughter will go to the police station tomorrow.
+tomorrow police station great grandfather go,your great grandfather will go to the police station tomorrow.
+tomorrow police station great grandmother go,your great grandmother will go to the police station tomorrow.
+tomorrow police station great grandchildren go,your great grandchildren will go to the police station tomorrow.
+tomorrow police station stepfather go,your stepfather will go to the police station tomorrow.
+tomorrow police station stepmother go,your stepmother will go to the police station tomorrow.
+tomorrow police station stepson go,your stepson will go to the police station tomorrow.
+tomorrow police station stepdaughter go,your stepdaughter will go to the police station tomorrow.
+tomorrow police station stepbrother go,your stepbrother will go to the police station tomorrow.
+tomorrow police station stepsister go,your stepsister will go to the police station tomorrow.
+i from thailand i,i am from thailand.
+our teacher who?,who is our teacher?
+our programer who?,who is our programer?
+our boss who?,who is our boss?
+your teacher name what?,what is your teacher name?
+your mother name what?,what is your mother name?
+your son name what?,what is your son name?
+your daughter name what?,what is your daughter name?
+your brother name what?,what is your brother name?
+your older brother name what?,what is your older brother name?
+your younger brother name what?,what is your younger brother name?
+your sister name what?,what is your sister name?
+your older sister name what?,what is your older sister name?
+your younger sister name what?,what is your younger sister name?
+your sibling name what?,what is your sibling name?
+your uncle name what?,what is your uncle name?
+your aunt name what?,what is your aunt name?
+your cousin name what?,what is your cousin name?
+your relative name what?,what is your relative name?
+your nephew name what?,what is your nephew name?
+your niece name what?,what is your niece name?
+your grandfather name what?,what is your grandfather name?
+your grandpa name what?,what is your grandpa name?
+your granddad name what?,what is your granddad name?
+your grandmother name what?,what is your grandmother name?
+your grandma name what?,what is your grandma name?
+your grand children name what?,what is your grand children name?
+your grandson name what?,what is your grandson name?
+your granddaughter name what?,what is your granddaughter name?
+your great grandfather name what?,what is your great grandfather name?
+your great grandmother name what?,what is your great grandmother name?
+your great grandchildren name what?,what is your great grandchildren name?
+your stepfather name what?,what is your stepfather name?
+your stepmother name what?,what is your stepmother name?
+your stepson name what?,what is your stepson name?
+your stepdaughter name what?,what is your stepdaughter name?
+your stepbrother name what?,what is your stepbrother name?
+your stepsister name what?,what is your stepsister name?
+you understand me?,do you understand me?
+i farmer i,i am farmer.
+i programer i,i am programer.
+i accountant i,i am accountant.
+i actor i,i am actor.
+i architect i,i am architect.
+i artist i,i am artist.
+i astronomer i,i am astronomer.
+i athlete i,i am athlete.
+i chef i,i am chef.
+i chemist i,i am chemist.
+i composer i,i am composer.
+i dentist i,i am dentist.
+i doctor i,i am doctor.
+i electrician i,i am electrician.
+i engineer i,i am engineer.
+i firefighter i,i am firefighter.
+i gardener i,i am gardener.
+i graphic designer i,i am graphic designer.
+i hairdresser i,i am hairdresser.
+i journalist i,i am journalist.
+i judge i,i am judge.
+i lawyer i,i am lawyer.
+i librarian i,i am librarian.
+i mechanic i,i am mechanic.
+i musician i,i am musician.
+i nurse i,i am nurse.
+i nutritionist i,i am nutritionist.
+i paramedic i,i am paramedic.
+i pharmacist i,i am pharmacist.
+i photographer i,i am photographer.
+i pilot i,i am pilot.
+i plumber i,i am plumber.
+i police officer i,i am police officer.
+i politician i,i am politician.
+i psychologist i,i am psychologist.
+i real estate agent i,i am real estate agent.
+i scientist i,i am scientist.
+i secretary i,i am secretary.
+i singer i,i am singer.
+i software developer i,i am software developer.
+i teacher i,i am teacher.
+i translator i,i am translator.
+i veterinarian i,i am veterinarian.
+i waiter i,i am waiter.
+i web developer i,i am web developer.
+i writer i,i am writer.
+i banker i,i am banker.
+i barista i,i am barista.
+i bartender i,i am bartender.
+i bus driver i,i am bus driver.
+i carpenter i,i am carpenter.
+i cashier i,i am cashier.
+i cleaner i,i am cleaner.
+i dancer i,i am dancer.
+i delivery driver i,i am delivery driver.
+i fisherman i,i am fisherman.
+i flight attendant i,i am flight attendant.
+i florist i,i am florist.
+i janitor i,i am janitor.
+i lifeguard i,i am lifeguard.
+i makeup artist i,i am makeup artist.
+i miner i,i am miner.
+i postman i,i am postman.
+i reporter i,i am reporter.
+i salesperson i,i am salesperson.
+i security guard i,i am security guard.
+i taxi driver i,i am taxi driver.
+i from afghanistan i,i am from afghanistan.
+i from albania i,i am from albania.
+i from algeria i,i am from algeria.
+i from andorra i,i am from andorra.
+i from angola i,i am from angola.
+i from antigua and barbuda i,i am from antigua and barbuda.
+i from argentina i,i am from argentina.
+i from armenia i,i am from armenia.
+i from australia i,i am from australia.
+i from austria i,i am from austria.
+i from azerbaijan i,i am from azerbaijan.
+i from bahamas i,i am from the bahamas.
+i from bahrain i,i am from bahrain.
+i from bangladesh i,i am from bangladesh.
+i from barbados i,i am from barbados.
+i from belarus i,i am from belarus.
+i from belgium i,i am from belgium.
+i from belize i,i am from belize.
+i from benin i,i am from benin.
+i from bhutan i,i am from bhutan.
+i from bolivia i,i am from bolivia.
+i from bosnia and herzegovina i,i am from bosnia and herzegovina.
+i from botswana i,i am from botswana.
+i from brazil i,i am from brazil.
+i from brunei i,i am from brunei.
+i from bulgaria i,i am from bulgaria.
+i from burkina faso i,i am from burkina faso.
+i from burundi i,i am from burundi.
+i from cabo verde i,i am from cabo verde.
+i from cambodia i,i am from cambodia.
+i from cameroon i,i am from cameroon.
+i from canada i,i am from canada.
+i from central african republic i,i am from the central african republic.
+i from chad i,i am from chad.
+i from chile i,i am from chile.
+i from china i,i am from china.
+i from colombia i,i am from colombia.
+i from comoros i,i am from comoros.
+i from congo i,i am from the congo.
+i from costa rica i,i am from costa rica.
+i from cote d'ivoire i,i am from cote d'ivoire.
+i from croatia i,i am from croatia.
+i from cuba i,i am from cuba.
+i from cyprus i,i am from cyprus.
+i from czech republic i,i am from the czech republic.
+i from denmark i,i am from denmark.
+i from djibouti i,i am from djibouti.
+i from dominica i,i am from dominica.
+i from dominican republic i,i am from the dominican republic.
+i from ecuador i,i am from ecuador.
+i from egypt i,i am from egypt.
+i from el salvador i,i am from el salvador.
+i from equatorial guinea i,i am from equatorial guinea.
+i from eritrea i,i am from eritrea.
+i from estonia i,i am from estonia.
+i from eswatini i,i am from eswatini.
+i from ethiopia i,i am from ethiopia.
+i from fiji i,i am from fiji.
+i from finland i,i am from finland.
+i from france i,i am from france.
+i from gabon i,i am from gabon.
+i from gambia i,i am from the gambia.
+i from georgia i,i am from georgia.
+i from germany i,i am from germany.
+i from ghana i,i am from ghana.
+i from greece i,i am from greece.
+i from grenada i,i am from grenada.
+i from guatemala i,i am from guatemala.
+i from guinea i,i am from guinea.
+i from guinea-bissau i,i am from guinea-bissau.
+i from guyana i,i am from guyana.
+i from haiti i,i am from haiti.
+i from honduras i,i am from honduras.
+i from hungary i,i am from hungary.
+i from iceland i,i am from iceland.
+i from india i,i am from india.
+i from indonesia i,i am from indonesia.
+i from iran i,i am from iran.
+i from iraq i,i am from iraq.
+i from ireland i,i am from ireland.
+i from israel i,i am from israel.
+i from italy i,i am from italy.
+i from jamaica i,i am from jamaica.
+i from japan i,i am from japan.
+i from jordan i,i am from jordan.
+i from kazakhstan i,i am from kazakhstan.
+i from kenya i,i am from kenya.
+i from kiribati i,i am from kiribati.
+i from kuwait i,i am from kuwait.
+i from kyrgyzstan i,i am from kyrgyzstan.
+i from laos i,i am from laos.
+i from latvia i,i am from latvia.
+i from lebanon i,i am from lebanon.
+i from lesotho i,i am from lesotho.
+i from liberia i,i am from liberia.
+i from libya i,i am from libya.
+i from liechtenstein i,i am from liechtenstein.
+i from lithuania i,i am from lithuania.
+i from luxembourg i,i am from luxembourg.
+i from madagascar i,i am from madagascar.
+i from malawi i,i am from malawi.
+i from malaysia i,i am from malaysia.
+i from maldives i,i am from the maldives.
+i from mali i,i am from mali.
+i from malta i,i am from malta.
+i from marshall islands i,i am from the marshall islands.
+i from mauritania i,i am from mauritania.
+i from mauritius i,i am from mauritius.
+i from mexico i,i am from mexico.
+i from micronesia i,i am from micronesia.
+i from moldova i,i am from moldova.
+i from monaco i,i am from monaco.
+i from mongolia i,i am from mongolia.
+i from montenegro i,i am from montenegro.
+i from morocco i,i am from morocco.
+i from mozambique i,i am from mozambique.
+i from myanmar i,i am from myanmar.
+i from namibia i,i am from namibia.
+i from nauru i,i am from nauru.
+i from nepal i,i am from nepal.
+i from netherlands i,i am from the netherlands.
+i from new zealand i,i am from new zealand.
+i from nicaragua i,i am from nicaragua.
+i from niger i,i am from niger.
+i from nigeria i,i am from nigeria.
+i from north macedonia i,i am from north macedonia.
+i from norway i,i am from norway.
+i from oman i,i am from oman.
+i from pakistan i,i am from pakistan.
+i from palau i,i am from palau.
+i from panama i,i am from panama.
+i from papua new guinea i,i am from papua new guinea.
+i from paraguay i,i am from paraguay.
+i from peru i,i am from peru.
+i from philippines i,i am from the philippines.
+i from poland i,i am from poland.
+i from portugal i,i am from portugal.
+i from qatar i,i am from qatar.
+i from romania i,i am from romania.
+i from russia i,i am from russia.
+i from rwanda i,i am from rwanda.
+i from saint kitts and nevis i,i am from saint kitts and nevis.
+i from saint lucia i,i am from saint lucia.
+i from saint vincent and the grenadines i,i am from saint vincent and the grenadines.
+i from samoa i,i am from samoa.
+i from san marino i,i am from san marino.
+i from sao tome and principe i,i am from sao tome and principe.
+i from saudi arabia i,i am from saudi arabia.
+i from senegal i,i am from senegal.
+i from serbia i,i am from serbia.
+i from seychelles i,i am from seychelles.
+i from sierra leone i,i am from sierra leone.
+i from singapore i,i am from singapore.
+i from slovakia i,i am from slovakia.
+i from slovenia i,i am from slovenia.
+i from solomon islands i,i am from the solomon islands.
+i from somalia i,i am from somalia.
+i from south africa i,i am from south africa.
+i from south sudan i,i am from south sudan.
+i from spain i,i am from spain.
+i from sri lanka i,i am from sri lanka.
+i from sudan i,i am from sudan.
+i from suriname i,i am from suriname.
+i from sweden i,i am from sweden.
+i from switzerland i,i am from switzerland.
+i from syria i,i am from syria.
+i from taiwan i,i am from taiwan.
+i from tajikistan i,i am from tajikistan.
+i from tanzania i,i am from tanzania.
+i from timor-leste i,i am from timor-leste.
+i from togo i,i am from togo.
+i from tonga i,i am from tonga.
+i from trinidad and tobago i,i am from trinidad and tobago.
+i from tunisia i,i am from tunisia.
+i from turkey i,i am from turkey.
+i from turkmenistan i,i am from turkmenistan.
+i from tuvalu i,i am from tuvalu.
+i from uganda i,i am from uganda.
+i from ukraine i,i am from ukraine.
+i from united arab emirates i,i am from the united arab emirates.
+i from united kingdom i,i am from the united kingdom.
+i from united states i,i am from the united states.
+i from uruguay i,i am from uruguay.
+i from uzbekistan i,i am from uzbekistan.
+i from vanuatu i,i am from vanuatu.
+i from vatican city i,i am from vatican city.
+i from venezuela i,i am from venezuela.
+i from vietnam i,i am from vietnam.
+i from yemen i,i am from yemen.
+i from zambia i,i am from zambia.
+i from zimbabwe i,i am from zimbabwe.
+who you?,who are you?
+your name?,what is your name?
+your mom name?,what is your mom's name?
+who they?,who are they?
+I student I,I am student
