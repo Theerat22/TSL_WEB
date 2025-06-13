@@ -122,7 +122,6 @@ class RealTimeSignRecognizer:
             return None, 0.0
             
         try:
-            # แปลงข้อมูลให้เป็นรูปแบบที่โมเดลต้องการ
             input_data = np.expand_dims(np.array(keypoints_sequence), axis=0)
             prediction = self.model.predict(input_data, verbose=0)[0]
             
@@ -159,7 +158,6 @@ class RealTimeSignRecognizer:
                 print("🎬 เริ่มบันทึกท่าทาง...")
             
             if self.gesture_state == "recording":
-                # บันทึก keypoints ทุกเฟรมระหว่างการเคลื่อนไหว
                 self.motion_keypoints.append(keypoints.copy())
                 
                 # แสดงความคืบหน้าการบันทึก
@@ -169,7 +167,6 @@ class RealTimeSignRecognizer:
         else:
             self.no_motion_frames += 1
             
-            # เพิ่ม keypoint frame สุดท้ายขณะที่ยังอยู่ในสถานะบันทึก
             if self.gesture_state == "recording":
                 self.motion_keypoints.append(keypoints.copy())
             
@@ -220,7 +217,6 @@ class RealTimeSignRecognizer:
         else:
             print(f"⚠️ ไม่เพิ่มคำซ้ำ: '{word}'")
         
-        # จำกัดความยาวประโยค
         if len(self.sentence) > 15:
             self.sentence = self.sentence[-15:]
             print("✂️ ตัดประโยคที่ยาวเกินไป")
@@ -320,14 +316,11 @@ def process_video(video_path):
         print("❌ ไม่สามารถเปิดวิดีโอได้")
         return None, 0.0
     
-    # ตั้งค่าความละเอียด
     cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
     
-    # สร้าง recognizer
     recognizer = RealTimeSignRecognizer(model, actions)
     
-    # MediaPipe setup
     mp_holistic = mp.solutions.holistic
     mp_drawing = mp.solutions.drawing_utils
     
@@ -353,41 +346,34 @@ def process_video(video_path):
             
             processed_frames += 1
             
-            # แสดงความคืบหน้าทุก 30 เฟรม
             if processed_frames % 30 == 0:
                 progress = (processed_frames / total_frames) * 100
                 print(f"📈 ความคืบหน้า: {progress:.1f}% ({processed_frames}/{total_frames})")
             
-            # ประมวลผลด้วย MediaPipe
             image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             image.flags.writeable = False
             results = holistic.process(image)
             image.flags.writeable = True
             
-            # ดึง keypoints
             keypoints = recognizer.extract_data_fixed(results)
             
-            # ประมวลผลเฟรม
             prediction_result = recognizer.process_frame(keypoints)
             
-            # เก็บผลการทำนาย
             if prediction_result:
                 all_predictions.append(prediction_result)
     
-    # แสดงประโยคสุดท้ายเมื่อวิดีโอจบ
     final_sentence = recognizer.get_final_sentence()
     
-    # คำนวณความมั่นใจเฉลี่ย
     avg_confidence = 0.0
     if all_predictions:
         avg_confidence = sum(pred['confidence'] for pred in all_predictions) / len(all_predictions)
     
     cap.release()
     
-    print(f"✅ ประมวลผลวิดีโอเสร็จสิ้น")
-    print(f"📊 ทำนายได้ {len(all_predictions)} คำ")
-    print(f"📝 ประโยคสุดท้าย: '{final_sentence}'")
-    print(f"🎯 ความมั่นใจเฉลี่ย: {avg_confidence:.3f}")
+    print(f"ประมวลผลวิดีโอเสร็จสิ้น")
+    print(f"ทำนายได้ {len(all_predictions)} คำ")
+    print(f"ประโยคสุดท้าย: '{final_sentence}'")
+    print(f"ความมั่นใจเฉลี่ย: {avg_confidence:.3f}")
     
     return final_sentence, avg_confidence
 
@@ -455,7 +441,7 @@ new_data.drop(columns=["Unnamed: 0"], inplace=True)
 keys = list(new_data["ASL"])
 values = list(new_data["English"])
 
-def find_most_similar_sentence_new(query_sentence):
+def find_most_similar_sentence_new_value(query_sentence):
     query_sentence = query_sentence.lower()
 
     query_sentence = [i[1] for i in pos_tag(nltk.word_tokenize(query_sentence))]
@@ -465,7 +451,27 @@ def find_most_similar_sentence_new(query_sentence):
             query_sentence[i] = query_sentence[i]+"1"
     query_sentence = " ".join(query_sentence)
 
+    # print(query_sentence)
+
     most_similar_sentence_ifidf_cosine_lem, __, __ = func_tfidf_cosine_lem(query_sentence, values, values)
+
+    result = most_similar_sentence_ifidf_cosine_lem
+
+    return query_sentence, result[1]
+
+def find_most_similar_sentence_new_key(query_sentence):
+    query_sentence = query_sentence.lower()
+
+    query_sentence = [i[1] for i in pos_tag(nltk.word_tokenize(query_sentence))]
+    query_sentence = list(map(lambda x: x[1] + str(query_sentence[:x[0]].count(x[1]) + 1) if query_sentence.count(x[1]) > 1 else x[1], enumerate(query_sentence)))
+    for i in range(len(query_sentence)):
+        if not any(j.isdigit() for j in query_sentence[i]):
+            query_sentence[i] = query_sentence[i]+"1"
+    query_sentence = " ".join(query_sentence)
+
+    # print(query_sentence)
+
+    most_similar_sentence_ifidf_cosine_lem, __, __ = func_tfidf_cosine_lem(query_sentence, keys, values)
 
     result = most_similar_sentence_ifidf_cosine_lem
 
@@ -604,14 +610,15 @@ def correct_sentence(sentence):
 
     return final_sentence
 
-
-def sign_translator(text_used):
-    after_result = find_most_similar_sentence_new(text_used)
+def sign_translator(text_used, stat):
+    if stat == False:
+        after_result = find_most_similar_sentence_new_value(text_used)
+    elif stat == True:
+        after_result = find_most_similar_sentence_new_key(text_used)
     match_word = dict(zip(after_result[0].split(" "), nltk.word_tokenize(text_used)))
     splitted_result_sentence = after_result[1].split(" ")
-
     result_sentence = [match_word[splitted_result_sentence[i]] if splitted_result_sentence[i] in match_word.keys() else "___" for i in range(len(splitted_result_sentence))]
-
+    
     subsens = []
 
     for i in range(len(result_sentence)):
@@ -645,9 +652,12 @@ def sign_translator(text_used):
     subsens = list(map(list,set(map(tuple,subsens))))
 
     res = " ".join(overlap_merge(subsens))
+
+
+    if ("_" in res or ("?" in res and "?" != res[-1])) and stat == False:
+        res = sign_translator(text_used, True)
+
     return correct_sentence(res)
-
-
 
 # Flask App Configuration
 app = Flask(__name__)
@@ -725,9 +735,9 @@ def predict():
             # Get file size for logging
             file_size = os.path.getsize(filepath)
             
-            print(f"🎬 วิดีโอที่ได้รับ: {filename}")
-            print(f"📦 ขนาดไฟล์: {file_size} bytes ({file_size/1024/1024:.2f} MB)")
-            print(f"📁 บันทึกที่: {filepath}")
+            print(f"วิดีโอที่ได้รับ: {filename}")
+            print(f"ขนาดไฟล์: {file_size} bytes ({file_size/1024/1024:.2f} MB)")
+            print(f"บันทึกที่: {filepath}")
             
             # Process the video with sign language recognition
             print("🤖 เริ่มประมวลผลภาษามือ...")
@@ -749,7 +759,7 @@ def predict():
             
             # Prepare response
             if final_sentence:
-                full_sentence = sign_translator(f"{final_sentence} .")
+                full_sentence = sign_translator(f"{final_sentence} ?",False)
                 translated = translator.translate(full_sentence, src='en', dest='th')
                 
                 response_data = {
@@ -774,7 +784,7 @@ def predict():
                     'processing_time': round(processing_time, 2)
                 }
             
-            print(f"✅ ส่งผลลัพธ์: {response_data['thai_text']}")
+            print(f"ส่งผลลัพธ์: {response_data['thai_text']}")
             return jsonify(response_data)
         
         else:
